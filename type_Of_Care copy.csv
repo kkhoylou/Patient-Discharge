@@ -1,0 +1,4531 @@
+Year,OSHPD ID,Type Of Care,Count
+2009,10735,Acute,2737
+2009,10735,Skilled Nursing/Intermediate Care,105
+2009,10739,Acute,25190
+2009,10776,Acute,10727
+2009,10776,Physical Rehabilitation,183
+2009,10782,Chemical Dependency,136
+2009,10805,Acute,9216
+2009,10805,Psychiatric,409
+2009,10805,Physical Rehabilitation,473
+2009,10844,Skilled Nursing/Intermediate Care,14
+2009,10844,Psychiatric,2829
+2009,10844,Physical Rehabilitation,728
+2009,10846,Acute,10827
+2009,10846,Skilled Nursing/Intermediate Care,163
+2009,10846,Psychiatric,3246
+2009,10846,Physical Rehabilitation,495
+2009,10856,Acute,20141
+2009,10858,Acute,18814
+2009,10887,Acute,463
+2009,10937,Acute,13733
+2009,10937,Skilled Nursing/Intermediate Care,831
+2009,10967,Acute,8591
+2009,10967,Skilled Nursing/Intermediate Care,301
+2009,10987,Acute,15695
+2009,13619,Acute,4222
+2009,13619,Unknown,1
+2009,13687,Chemical Dependency,591
+2009,14034,Acute,1
+2009,14034,Psychiatric,3437
+2009,14050,Acute,8782
+2009,14050,Skilled Nursing/Intermediate Care,422
+2009,14050,Psychiatric,218
+2009,14207,Psychiatric,1272
+2009,14226,Psychiatric,649
+2009,34002,Acute,2658
+2009,40802,Acute,667
+2009,40802,Skilled Nursing/Intermediate Care,66
+2009,40875,Acute,5909
+2009,40937,Acute,8958
+2009,40937,Skilled Nursing/Intermediate Care,459
+2009,40962,Acute,14871
+2009,40962,Psychiatric,615
+2009,40962,Physical Rehabilitation,604
+2009,44006,Psychiatric,609
+2009,50932,Acute,1517
+2009,50932,Skilled Nursing/Intermediate Care,21
+2009,60870,Acute,1308
+2009,60870,Skilled Nursing/Intermediate Care,84
+2009,70904,Acute,6277
+2009,70924,Acute,11044
+2009,70924,Psychiatric,804
+2009,70934,Acute,8437
+2009,70988,Acute,19553
+2009,70988,Physical Rehabilitation,467
+2009,70990,Acute,18968
+2009,71018,Acute,9055
+2009,74017,Acute,5579
+2009,74039,Psychiatric,2053
+2009,74039,Chemical Dependency,723
+2009,74097,Acute,9046
+2009,84001,Acute,2776
+2009,90793,Acute,2965
+2009,90793,Skilled Nursing/Intermediate Care,73
+2009,90933,Acute,6027
+2009,90933,Skilled Nursing/Intermediate Care,438
+2009,94002,Psychiatric,337
+2009,100005,Acute,13138
+2009,100005,Physical Rehabilitation,1
+2009,100697,Acute,1174
+2009,100697,Skilled Nursing/Intermediate Care,104
+2009,100717,Acute,38296
+2009,100717,Skilled Nursing/Intermediate Care,304
+2009,100717,Psychiatric,2963
+2009,100717,Physical Rehabilitation,598
+2009,100745,Acute,1
+2009,100745,Skilled Nursing/Intermediate Care,44
+2009,100797,Acute,4052
+2009,100797,Skilled Nursing/Intermediate Care,4
+2009,100899,Acute,27686
+2009,104023,Acute,1394
+2009,104047,Acute,2280
+2009,104062,Acute,8764
+2009,104089,Psychiatric,897
+2009,105029,Acute,3633
+2009,110889,Acute,290
+2009,110889,Skilled Nursing/Intermediate Care,15
+2009,121002,Acute,2579
+2009,121031,Acute,55
+2009,121031,Skilled Nursing/Intermediate Care,28
+2009,121051,Acute,2044
+2009,121051,Skilled Nursing/Intermediate Care,32
+2009,121080,Acute,7136
+2009,121080,Physical Rehabilitation,145
+2009,124004,Psychiatric,637
+2009,130699,Acute,7613
+2009,130760,Acute,7458
+2009,141273,Acute,1286
+2009,141338,Acute,20
+2009,141338,Skilled Nursing/Intermediate Care,29
+2009,150706,Acute,4798
+2009,150706,Skilled Nursing/Intermediate Care,30
+2009,150722,Acute,19966
+2009,150722,Skilled Nursing/Intermediate Care,237
+2009,150736,Acute,14730
+2009,150736,Psychiatric,780
+2009,150737,Acute,747
+2009,150737,Skilled Nursing/Intermediate Care,184
+2009,150761,Acute,14883
+2009,150775,Acute,1494
+2009,150775,Psychiatric,2031
+2009,150775,Chemical Dependency,189
+2009,150782,Acute,3246
+2009,150788,Acute,19533
+2009,150808,Acute,207
+2009,150808,Skilled Nursing/Intermediate Care,19
+2009,154022,Physical Rehabilitation,1478
+2009,154101,Acute,3823
+2009,154147,Psychiatric,594
+2009,160702,Acute,339
+2009,160725,Acute,10650
+2009,160787,Acute,6321
+2009,171049,Acute,1889
+2009,171049,Skilled Nursing/Intermediate Care,35
+2009,171395,Acute,2461
+2009,171395,Skilled Nursing/Intermediate Care,108
+2009,184008,Acute,1699
+2009,190017,Acute,3659
+2009,190017,Skilled Nursing/Intermediate Care,23
+2009,190017,Physical Rehabilitation,199
+2009,190020,Psychiatric,4019
+2009,190034,Acute,29351
+2009,190034,Psychiatric,633
+2009,190045,Acute,25
+2009,190045,Skilled Nursing/Intermediate Care,10
+2009,190049,Acute,724
+2009,190052,Acute,696
+2009,190053,Acute,13800
+2009,190053,Physical Rehabilitation,606
+2009,190066,Acute,5027
+2009,190066,Psychiatric,1138
+2009,190081,Acute,10599
+2009,190110,Acute,5241
+2009,190110,Skilled Nursing/Intermediate Care,441
+2009,190110,Psychiatric,1255
+2009,190110,Chemical Dependency,954
+2009,190110,Physical Rehabilitation,355
+2009,190125,Acute,20415
+2009,190125,Skilled Nursing/Intermediate Care,289
+2009,190137,Physical Rehabilitation,1352
+2009,190148,Acute,20541
+2009,190148,Physical Rehabilitation,1
+2009,190150,Psychiatric,1077
+2009,190159,Acute,3584
+2009,190163,Psychiatric,4641
+2009,190170,Acute,10953
+2009,190170,Physical Rehabilitation,124
+2009,190176,Acute,6341
+2009,190184,Psychiatric,6759
+2009,190196,Acute,887
+2009,190197,Acute,3999
+2009,190198,Acute,5927
+2009,190198,Skilled Nursing/Intermediate Care,46
+2009,190200,Acute,9633
+2009,190200,Skilled Nursing/Intermediate Care,319
+2009,190232,Psychiatric,4508
+2009,190232,Chemical Dependency,71
+2009,190240,Acute,7491
+2009,190240,Physical Rehabilitation,180
+2009,190243,Acute,14793
+2009,190256,Acute,5014
+2009,190256,Skilled Nursing/Intermediate Care,15
+2009,190280,Acute,2452
+2009,190280,Skilled Nursing/Intermediate Care,23
+2009,190280,Psychiatric,229
+2009,190298,Acute,6401
+2009,190305,Acute,825
+2009,190307,Acute,6832
+2009,190307,Physical Rehabilitation,274
+2009,190315,Acute,14209
+2009,190315,Physical Rehabilitation,480
+2009,190317,Psychiatric,854
+2009,190323,Acute,19054
+2009,190323,Skilled Nursing/Intermediate Care,455
+2009,190323,Psychiatric,1647
+2009,190323,Physical Rehabilitation,535
+2009,190328,Acute,1658
+2009,190328,Psychiatric,478
+2009,190352,Acute,4261
+2009,190352,Skilled Nursing/Intermediate Care,10
+2009,190380,Acute,3556
+2009,190382,Acute,21174
+2009,190382,Skilled Nursing/Intermediate Care,255
+2009,190382,Chemical Dependency,2
+2009,190382,Physical Rehabilitation,407
+2009,190385,Acute,17294
+2009,190385,Skilled Nursing/Intermediate Care,48
+2009,190385,Physical Rehabilitation,240
+2009,190392,Acute,20043
+2009,190392,Skilled Nursing/Intermediate Care,774
+2009,190392,Physical Rehabilitation,202
+2009,190400,Acute,29649
+2009,190400,Psychiatric,1174
+2009,190400,Physical Rehabilitation,367
+2009,190410,Psychiatric,2774
+2009,190413,Acute,6553
+2009,190413,Skilled Nursing/Intermediate Care,751
+2009,190413,Psychiatric,1424
+2009,190422,Acute,26901
+2009,190422,Skilled Nursing/Intermediate Care,1497
+2009,190422,Psychiatric,14
+2009,190429,Acute,25159
+2009,190430,Acute,16052
+2009,190431,Acute,16589
+2009,190432,Acute,16544
+2009,190434,Acute,14106
+2009,190449,Acute,2249
+2009,190455,Acute,5918
+2009,190455,Physical Rehabilitation,202
+2009,190462,Psychiatric,1940
+2009,190462,Chemical Dependency,521
+2009,190468,Acute,1547
+2009,190470,Acute,20999
+2009,190470,Skilled Nursing/Intermediate Care,2044
+2009,190475,Acute,2787
+2009,190475,Psychiatric,1156
+2009,190500,Acute,4146
+2009,190517,Acute,13948
+2009,190521,Acute,7859
+2009,190521,Skilled Nursing/Intermediate Care,112
+2009,190522,Acute,12188
+2009,190522,Psychiatric,1
+2009,190522,Physical Rehabilitation,286
+2009,190524,Acute,3549
+2009,190524,Psychiatric,3340
+2009,190525,Acute,23566
+2009,190525,Physical Rehabilitation,660
+2009,190529,Acute,16666
+2009,190529,Skilled Nursing/Intermediate Care,975
+2009,190529,Physical Rehabilitation,406
+2009,190534,Acute,6614
+2009,190541,Acute,240
+2009,190547,Acute,6425
+2009,190552,Acute,411
+2009,190552,Skilled Nursing/Intermediate Care,143
+2009,190555,Acute,53369
+2009,190555,Psychiatric,1541
+2009,190555,Physical Rehabilitation,758
+2009,190568,Acute,18057
+2009,190568,Psychiatric,1597
+2009,190568,Physical Rehabilitation,307
+2009,190570,Acute,2706
+2009,190587,Acute,5354
+2009,190587,Psychiatric,2678
+2009,190630,Acute,27809
+2009,190630,Skilled Nursing/Intermediate Care,766
+2009,190631,Acute,19096
+2009,190631,Skilled Nursing/Intermediate Care,771
+2009,190631,Physical Rehabilitation,130
+2009,190636,Acute,20163
+2009,190636,Physical Rehabilitation,172
+2009,190646,Psychiatric,2318
+2009,190661,Acute,1548
+2009,190661,Psychiatric,633
+2009,190673,Acute,5057
+2009,190680,Acute,6643
+2009,190680,Skilled Nursing/Intermediate Care,551
+2009,190680,Psychiatric,579
+2009,190680,Chemical Dependency,204
+2009,190680,Physical Rehabilitation,330
+2009,190681,Acute,243
+2009,190687,Acute,16365
+2009,190696,Acute,4377
+2009,190696,Skilled Nursing/Intermediate Care,58
+2009,190696,Psychiatric,1653
+2009,190708,Acute,4438
+2009,190708,Psychiatric,39
+2009,190712,Acute,1491
+2009,190754,Acute,25371
+2009,190754,Skilled Nursing/Intermediate Care,388
+2009,190754,Psychiatric,1507
+2009,190756,Acute,16092
+2009,190758,Acute,19927
+2009,190758,Skilled Nursing/Intermediate Care,69
+2009,190758,Physical Rehabilitation,379
+2009,190762,Acute,8495
+2009,190762,Skilled Nursing/Intermediate Care,890
+2009,190762,Physical Rehabilitation,299
+2009,190766,Acute,4237
+2009,190782,Psychiatric,2066
+2009,190784,Acute,2655
+2009,190784,Skilled Nursing/Intermediate Care,8
+2009,190796,Acute,24347
+2009,190796,Physical Rehabilitation,195
+2009,190812,Acute,21544
+2009,190812,Physical Rehabilitation,256
+2009,190814,Psychiatric,3073
+2009,190818,Acute,6106
+2009,190818,Skilled Nursing/Intermediate Care,816
+2009,190818,Psychiatric,563
+2009,190854,Acute,3937
+2009,190854,Psychiatric,2555
+2009,190857,Acute,241
+2009,190857,Skilled Nursing/Intermediate Care,16
+2009,190859,Acute,9016
+2009,190859,Unknown,3
+2009,190878,Acute,19906
+2009,190878,Skilled Nursing/Intermediate Care,496
+2009,190878,Psychiatric,1945
+2009,190878,Physical Rehabilitation,345
+2009,190883,Acute,11980
+2009,190883,Skilled Nursing/Intermediate Care,28
+2009,190930,Psychiatric,1918
+2009,190949,Acute,11627
+2009,190949,Psychiatric,1022
+2009,190949,Physical Rehabilitation,196
+2009,191216,Acute,1840
+2009,191225,Chemical Dependency,649
+2009,191227,Acute,23867
+2009,191227,Psychiatric,842
+2009,191228,Acute,29882
+2009,191228,Psychiatric,1296
+2009,191231,Acute,14116
+2009,191231,Psychiatric,820
+2009,191306,Acute,2441
+2009,191306,Physical Rehabilitation,1193
+2009,191450,Acute,13741
+2009,194010,Chemical Dependency,1288
+2009,194219,Acute,7033
+2009,194219,Psychiatric,181
+2009,194219,Chemical Dependency,1
+2009,194219,Physical Rehabilitation,1
+2009,194967,Psychiatric,103
+2009,194981,Psychiatric,111
+2009,196035,Acute,18635
+2009,196168,Acute,19696
+2009,196403,Acute,6511
+2009,196404,Skilled Nursing/Intermediate Care,279
+2009,196404,Psychiatric,38
+2009,201281,Acute,6923
+2009,204019,Acute,13031
+2009,204019,Skilled Nursing/Intermediate Care,2
+2009,204019,Psychiatric,8
+2009,204019,Physical Rehabilitation,68
+2009,210992,Acute,5948
+2009,210993,Acute,526
+2009,211006,Acute,10801
+2009,211006,Psychiatric,649
+2009,214034,Acute,1852
+2009,220733,Acute,272
+2009,220733,Skilled Nursing/Intermediate Care,43
+2009,230949,Acute,1386
+2009,230949,Skilled Nursing/Intermediate Care,48
+2009,231013,Acute,1211
+2009,231013,Skilled Nursing/Intermediate Care,170
+2009,231396,Acute,4693
+2009,240924,Acute,2475
+2009,240942,Acute,13033
+2009,244027,Psychiatric,724
+2009,250955,Acute,21
+2009,250955,Skilled Nursing/Intermediate Care,18
+2009,250956,Acute,195
+2009,250956,Skilled Nursing/Intermediate Care,89
+2009,260011,Acute,747
+2009,270744,Acute,11797
+2009,270744,Psychiatric,577
+2009,270744,Chemical Dependency,7
+2009,270777,Acute,2335
+2009,270777,Skilled Nursing/Intermediate Care,153
+2009,270875,Acute,13378
+2009,274043,Acute,9310
+2009,274043,Psychiatric,610
+2009,274043,Physical Rehabilitation,332
+2009,281047,Acute,8999
+2009,281047,Physical Rehabilitation,251
+2009,281078,Acute,4102
+2009,281078,Psychiatric,773
+2009,281297,Acute,46
+2009,281297,Skilled Nursing/Intermediate Care,262
+2009,291023,Acute,6357
+2009,291023,Skilled Nursing/Intermediate Care,427
+2009,291053,Acute,2186
+2009,291053,Skilled Nursing/Intermediate Care,44
+2009,300032,Acute,12496
+2009,300225,Acute,13553
+2009,301097,Acute,780
+2009,301097,Skilled Nursing/Intermediate Care,25
+2009,301097,Psychiatric,138
+2009,301098,Acute,14478
+2009,301127,Acute,483
+2009,301127,Skilled Nursing/Intermediate Care,109
+2009,301132,Acute,28564
+2009,301140,Acute,1705
+2009,301140,Skilled Nursing/Intermediate Care,12
+2009,301140,Psychiatric,253
+2009,301140,Chemical Dependency,353
+2009,301155,Acute,655
+2009,301155,Psychiatric,3416
+2009,301175,Acute,21198
+2009,301188,Acute,7571
+2009,301188,Psychiatric,3106
+2009,301205,Acute,32626
+2009,301205,Chemical Dependency,454
+2009,301209,Acute,3581
+2009,301209,Psychiatric,295
+2009,301234,Acute,3895
+2009,301234,Psychiatric,322
+2009,301248,Acute,11230
+2009,301248,Psychiatric,372
+2009,301248,Chemical Dependency,2
+2009,301258,Acute,6479
+2009,301258,Skilled Nursing/Intermediate Care,44
+2009,301258,Psychiatric,485
+2009,301262,Acute,21591
+2009,301262,Physical Rehabilitation,372
+2009,301279,Acute,15734
+2009,301279,Psychiatric,1530
+2009,301279,Physical Rehabilitation,220
+2009,301283,Acute,9582
+2009,301297,Acute,4221
+2009,301304,Psychiatric,757
+2009,301317,Acute,21128
+2009,301317,Physical Rehabilitation,243
+2009,301337,Acute,2398
+2009,301337,Skilled Nursing/Intermediate Care,24
+2009,301337,Psychiatric,738
+2009,301337,Chemical Dependency,649
+2009,301340,Acute,25388
+2009,301340,Psychiatric,1808
+2009,301340,Chemical Dependency,1
+2009,301342,Acute,17856
+2009,301342,Skilled Nursing/Intermediate Care,811
+2009,301342,Physical Rehabilitation,478
+2009,301357,Acute,174
+2009,301357,Skilled Nursing/Intermediate Care,19
+2009,301379,Acute,6438
+2009,301379,Psychiatric,394
+2009,301380,Acute,1008
+2009,301566,Acute,13320
+2009,301566,Psychiatric,78
+2009,304045,Acute,119
+2009,304079,Physical Rehabilitation,1162
+2009,304113,Acute,2178
+2009,304159,Skilled Nursing/Intermediate Care,19
+2009,304159,Physical Rehabilitation,51
+2009,304426,Psychiatric,293
+2009,310791,Acute,4127
+2009,311000,Acute,18248
+2009,311000,Skilled Nursing/Intermediate Care,7
+2009,311000,Physical Rehabilitation,717
+2009,314029,Psychiatric,660
+2009,320859,Acute,466
+2009,320859,Skilled Nursing/Intermediate Care,86
+2009,320986,Acute,590
+2009,321016,Acute,195
+2009,321016,Skilled Nursing/Intermediate Care,34
+2009,330120,Chemical Dependency,1041
+2009,331152,Acute,10430
+2009,331152,Skilled Nursing/Intermediate Care,66
+2009,331152,Psychiatric,424
+2009,331152,Physical Rehabilitation,171
+2009,331164,Acute,19891
+2009,331164,Skilled Nursing/Intermediate Care,1040
+2009,331164,Psychiatric,1
+2009,331164,Physical Rehabilitation,172
+2009,331168,Acute,18319
+2009,331194,Acute,12320
+2009,331194,Skilled Nursing/Intermediate Care,41
+2009,331194,Chemical Dependency,739
+2009,331216,Acute,11840
+2009,331226,Psychiatric,547
+2009,331226,Chemical Dependency,390
+2009,331288,Acute,1717
+2009,331293,Acute,10415
+2009,331312,Acute,22695
+2009,331326,Acute,4035
+2009,331326,Skilled Nursing/Intermediate Care,288
+2009,332172,Acute,380
+2009,334018,Acute,4113
+2009,334025,Acute,19252
+2009,334048,Acute,5922
+2009,334048,Psychiatric,988
+2009,334068,Acute,22981
+2009,334457,Psychiatric,732
+2009,334487,Acute,19216
+2009,334487,Psychiatric,4002
+2009,340913,Acute,35955
+2009,340947,Acute,20250
+2009,340947,Skilled Nursing/Intermediate Care,707
+2009,340947,Physical Rehabilitation,329
+2009,340950,Acute,20614
+2009,340951,Acute,9471
+2009,340951,Skilled Nursing/Intermediate Care,699
+2009,340951,Unknown,1
+2009,341006,Acute,30392
+2009,341006,Physical Rehabilitation,277
+2009,341051,Acute,11688
+2009,341051,Skilled Nursing/Intermediate Care,654
+2009,341052,Acute,22471
+2009,342344,Acute,14098
+2009,342392,Psychiatric,3216
+2009,344011,Psychiatric,1742
+2009,344017,Psychiatric,2344
+2009,344021,Acute,2
+2009,344021,Psychiatric,2687
+2009,344029,Acute,5625
+2009,344035,Acute,314
+2009,344114,Acute,1174
+2009,344114,Physical Rehabilitation,42
+2009,350784,Acute,2909
+2009,350784,Skilled Nursing/Intermediate Care,214
+2009,361105,Acute,2853
+2009,361110,Acute,413
+2009,361110,Skilled Nursing/Intermediate Care,7
+2009,361144,Acute,6306
+2009,361166,Acute,5667
+2009,361223,Acute,29599
+2009,361223,Chemical Dependency,851
+2009,361223,Physical Rehabilitation,94
+2009,361246,Acute,32616
+2009,361246,Physical Rehabilitation,431
+2009,361266,Acute,392
+2009,361266,Skilled Nursing/Intermediate Care,33
+2009,361274,Acute,1077
+2009,361308,Acute,13651
+2009,361308,Skilled Nursing/Intermediate Care,720
+2009,361308,Psychiatric,730
+2009,361318,Acute,17859
+2009,361323,Acute,11265
+2009,361323,Skilled Nursing/Intermediate Care,126
+2009,361323,Psychiatric,1850
+2009,361339,Acute,19283
+2009,361343,Acute,18584
+2009,361370,Acute,7987
+2009,361458,Acute,575
+2009,362041,Acute,3717
+2009,362041,Skilled Nursing/Intermediate Care,605
+2009,364014,Psychiatric,3720
+2009,364014,Chemical Dependency,708
+2009,364050,Psychiatric,4063
+2009,364121,Physical Rehabilitation,971
+2009,364144,Acute,6416
+2009,364188,Acute,769
+2009,364188,Unknown,1
+2009,364231,Acute,23832
+2009,364231,Psychiatric,3497
+2009,370652,Acute,8946
+2009,370652,Physical Rehabilitation,387
+2009,370673,Acute,14542
+2009,370673,Skilled Nursing/Intermediate Care,104
+2009,370673,Physical Rehabilitation,47
+2009,370689,Acute,2545
+2009,370689,Skilled Nursing/Intermediate Care,315
+2009,370693,Skilled Nursing/Intermediate Care,133
+2009,370694,Acute,21120
+2009,370694,Physical Rehabilitation,358
+2009,370695,Acute,15733
+2009,370705,Acute,2909
+2009,370705,Skilled Nursing/Intermediate Care,445
+2009,370714,Acute,28592
+2009,370714,Skilled Nursing/Intermediate Care,133
+2009,370714,Psychiatric,1375
+2009,370714,Physical Rehabilitation,355
+2009,370721,Acute,505
+2009,370730,Acute,32491
+2009,370744,Acute,32974
+2009,370744,Psychiatric,1781
+2009,370745,Psychiatric,5405
+2009,370749,Psychiatric,1949
+2009,370749,Chemical Dependency,268
+2009,370755,Acute,22494
+2009,370755,Skilled Nursing/Intermediate Care,443
+2009,370755,Psychiatric,1073
+2009,370755,Physical Rehabilitation,461
+2009,370759,Acute,7913
+2009,370759,Psychiatric,3463
+2009,370759,Physical Rehabilitation,249
+2009,370771,Acute,20464
+2009,370771,Chemical Dependency,661
+2009,370780,Acute,18811
+2009,370780,Psychiatric,875
+2009,370780,Physical Rehabilitation,169
+2009,370782,Acute,23801
+2009,370782,Psychiatric,1615
+2009,370787,Acute,581
+2009,370787,Psychiatric,1296
+2009,370875,Acute,17740
+2009,370875,Skilled Nursing/Intermediate Care,617
+2009,370977,Acute,7399
+2009,370977,Skilled Nursing/Intermediate Care,610
+2009,370977,Psychiatric,291
+2009,371256,Acute,11937
+2009,371394,Acute,11052
+2009,371394,Physical Rehabilitation,642
+2009,374024,Psychiatric,2342
+2009,374024,Chemical Dependency,519
+2009,374049,Chemical Dependency,213
+2009,374055,Skilled Nursing/Intermediate Care,58
+2009,374055,Psychiatric,1658
+2009,374084,Acute,914
+2009,374094,Acute,778
+2009,380842,Skilled Nursing/Intermediate Care,535
+2009,380842,Psychiatric,9
+2009,380857,Acute,15331
+2009,380865,Acute,99
+2009,380865,Skilled Nursing/Intermediate Care,730
+2009,380865,Physical Rehabilitation,32
+2009,380868,Psychiatric,687
+2009,380929,Acute,30721
+2009,380929,Skilled Nursing/Intermediate Care,1647
+2009,380929,Psychiatric,584
+2009,380929,Physical Rehabilitation,424
+2009,380939,Acute,13417
+2009,380939,Skilled Nursing/Intermediate Care,464
+2009,380939,Psychiatric,2186
+2009,380960,Acute,4168
+2009,380960,Psychiatric,1420
+2009,380960,Physical Rehabilitation,401
+2009,380964,Acute,4997
+2009,380964,Skilled Nursing/Intermediate Care,458
+2009,380965,Acute,5127
+2009,380965,Skilled Nursing/Intermediate Care,771
+2009,380965,Psychiatric,608
+2009,380965,Physical Rehabilitation,396
+2009,381154,Acute,30554
+2009,382715,Acute,2043
+2009,390846,Acute,12366
+2009,390923,Acute,9125
+2009,390923,Skilled Nursing/Intermediate Care,120
+2009,390923,Physical Rehabilitation,191
+2009,391010,Acute,10702
+2009,391042,Acute,18491
+2009,391042,Skilled Nursing/Intermediate Care,621
+2009,391056,Acute,4893
+2009,392232,Psychiatric,1439
+2009,392287,Acute,4295
+2009,394003,Psychiatric,1149
+2009,394009,Acute,11463
+2009,394009,Skilled Nursing/Intermediate Care,97
+2009,400466,Acute,2539
+2009,400466,Skilled Nursing/Intermediate Care,251
+2009,400480,Acute,5551
+2009,400524,Acute,6937
+2009,400548,Acute,6438
+2009,404046,Psychiatric,1139
+2009,410782,Acute,2808
+2009,410782,Skilled Nursing/Intermediate Care,473
+2009,410782,Psychiatric,813
+2009,410804,Acute,8510
+2009,410806,Acute,5834
+2009,410817,Acute,9449
+2009,410817,Skilled Nursing/Intermediate Care,777
+2009,410828,Skilled Nursing/Intermediate Care,83
+2009,410852,Acute,13840
+2009,410852,Skilled Nursing/Intermediate Care,1087
+2009,410852,Psychiatric,848
+2009,410852,Chemical Dependency,343
+2009,410852,Physical Rehabilitation,240
+2009,410891,Acute,8375
+2009,410891,Skilled Nursing/Intermediate Care,35
+2009,410891,Psychiatric,951
+2009,414018,Acute,462
+2009,420483,Acute,1505
+2009,420483,Skilled Nursing/Intermediate Care,16
+2009,420491,Acute,2873
+2009,420491,Skilled Nursing/Intermediate Care,204
+2009,420493,Acute,13045
+2009,420493,Skilled Nursing/Intermediate Care,523
+2009,420514,Acute,19828
+2009,420514,Psychiatric,1050
+2009,420514,Physical Rehabilitation,607
+2009,420522,Acute,300
+2009,424002,Psychiatric,420
+2009,430705,Acute,11043
+2009,430743,Acute,809
+2009,430763,Acute,20761
+2009,430763,Skilled Nursing/Intermediate Care,7
+2009,430763,Psychiatric,781
+2009,430779,Acute,20187
+2009,430779,Skilled Nursing/Intermediate Care,3
+2009,430779,Psychiatric,677
+2009,430779,Physical Rehabilitation,295
+2009,430837,Acute,16771
+2009,430837,Skilled Nursing/Intermediate Care,523
+2009,430883,Acute,26351
+2009,430883,Psychiatric,1052
+2009,430883,Physical Rehabilitation,521
+2009,430905,Acute,22959
+2009,430905,Psychiatric,905
+2009,431506,Acute,14004
+2009,434040,Acute,16654
+2009,434051,Skilled Nursing/Intermediate Care,16
+2009,434138,Acute,4083
+2009,434153,Acute,24931
+2009,440755,Acute,11216
+2009,440755,Skilled Nursing/Intermediate Care,796
+2009,440755,Psychiatric,977
+2009,440755,Physical Rehabilitation,372
+2009,444012,Acute,2833
+2009,444013,Acute,7114
+2009,450936,Acute,552
+2009,450936,Skilled Nursing/Intermediate Care,107
+2009,450940,Acute,4611
+2009,450949,Acute,16297
+2009,454012,Acute,615
+2009,454012,Skilled Nursing/Intermediate Care,374
+2009,454013,Acute,381
+2009,470871,Acute,1501
+2009,470871,Skilled Nursing/Intermediate Care,89
+2009,470871,Chemical Dependency,2
+2009,474007,Acute,1892
+2009,480989,Acute,15585
+2009,480989,Physical Rehabilitation,848
+2009,481015,Psychiatric,1979
+2009,481094,Acute,5531
+2009,481357,Acute,6795
+2009,484001,Acute,2623
+2009,484028,Psychiatric,765
+2009,484044,Acute,701
+2009,490919,Acute,7029
+2009,490964,Acute,829
+2009,490964,Skilled Nursing/Intermediate Care,93
+2009,490964,Unknown,1
+2009,491001,Acute,3495
+2009,491064,Acute,12607
+2009,491064,Physical Rehabilitation,254
+2009,491076,Acute,1764
+2009,491076,Skilled Nursing/Intermediate Care,445
+2009,491338,Acute,1284
+2009,491338,Skilled Nursing/Intermediate Care,38
+2009,494019,Acute,10967
+2009,500852,Acute,21308
+2009,500852,Psychiatric,3369
+2009,500852,Chemical Dependency,4
+2009,500867,Acute,11635
+2009,500867,Skilled Nursing/Intermediate Care,595
+2009,500939,Acute,23099
+2009,500954,Skilled Nursing/Intermediate Care,170
+2009,500967,Acute,1804
+2009,500967,Skilled Nursing/Intermediate Care,311
+2009,504038,Acute,1124
+2009,510882,Acute,8285
+2009,514001,Psychiatric,325
+2009,514030,Acute,241
+2009,514033,Psychiatric,542
+2009,514037,Psychiatric,251
+2009,521041,Acute,4450
+2009,521041,Skilled Nursing/Intermediate Care,18
+2009,531059,Acute,397
+2009,531059,Skilled Nursing/Intermediate Care,21
+2009,540734,Acute,24093
+2009,540734,Skilled Nursing/Intermediate Care,413
+2009,540734,Psychiatric,648
+2009,540734,Physical Rehabilitation,451
+2009,540798,Acute,9786
+2009,540798,Skilled Nursing/Intermediate Care,33
+2009,540816,Acute,6715
+2010,190053,Acute,14168
+2009,551061,Skilled Nursing/Intermediate Care,10
+2009,554011,Acute,4968
+2009,554011,Skilled Nursing/Intermediate Care,353
+2009,560203,Psychiatric,3335
+2009,560473,Acute,15557
+2009,560481,Acute,13992
+2009,560481,Psychiatric,2894
+2009,560481,Unknown,1
+2009,560492,Acute,14404
+2009,560492,Skilled Nursing/Intermediate Care,706
+2009,560492,Physical Rehabilitation,181
+2009,560492,Unknown,1
+2009,560501,Acute,766
+2009,560501,Skilled Nursing/Intermediate Care,299
+2009,560508,Acute,3567
+2009,560508,Skilled Nursing/Intermediate Care,42
+2009,560525,Acute,5809
+2009,560525,Skilled Nursing/Intermediate Care,644
+2009,560529,Acute,12921
+2009,560529,Physical Rehabilitation,387
+2009,560838,Psychiatric,204
+2009,564121,Acute,952
+2009,571086,Acute,4103
+2009,571086,Psychiatric,689
+2009,574010,Acute,4709
+2009,580996,Acute,7142
+2010,10735,Acute,2514
+2010,10735,Skilled Nursing/Intermediate Care,100
+2010,10739,Acute,25112
+2010,10776,Acute,10831
+2010,10776,Physical Rehabilitation,161
+2010,10782,Chemical Dependency,186
+2010,10805,Acute,9795
+2010,10805,Psychiatric,407
+2010,10844,Skilled Nursing/Intermediate Care,8
+2010,10844,Psychiatric,2748
+2010,10844,Physical Rehabilitation,757
+2010,10846,Acute,11178
+2010,10846,Skilled Nursing/Intermediate Care,165
+2010,190315,Acute,13991
+2010,10846,Psychiatric,2991
+2010,10846,Physical Rehabilitation,506
+2010,10856,Acute,20512
+2010,10858,Acute,18010
+2010,10887,Acute,472
+2010,10937,Acute,13080
+2010,10937,Skilled Nursing/Intermediate Care,874
+2010,10967,Acute,8205
+2010,10967,Skilled Nursing/Intermediate Care,293
+2010,10987,Acute,14834
+2010,13619,Acute,4024
+2010,13687,Chemical Dependency,561
+2010,14034,Psychiatric,3445
+2010,14050,Acute,8499
+2010,14050,Skilled Nursing/Intermediate Care,505
+2010,14050,Psychiatric,227
+2010,14207,Psychiatric,1373
+2010,14226,Psychiatric,586
+2010,34002,Acute,2575
+2010,40802,Acute,720
+2010,40802,Skilled Nursing/Intermediate Care,50
+2010,40875,Acute,6126
+2010,40937,Acute,9474
+2010,40937,Skilled Nursing/Intermediate Care,622
+2010,40962,Acute,14927
+2010,40962,Psychiatric,664
+2010,40962,Physical Rehabilitation,533
+2010,44006,Psychiatric,658
+2010,50932,Acute,1470
+2010,50932,Skilled Nursing/Intermediate Care,29
+2010,60870,Acute,1245
+2010,60870,Skilled Nursing/Intermediate Care,86
+2010,70904,Acute,6094
+2010,70924,Acute,10676
+2010,70924,Psychiatric,871
+2010,70934,Acute,8711
+2010,70988,Acute,19087
+2010,70988,Physical Rehabilitation,468
+2010,70990,Acute,18322
+2010,71018,Acute,8998
+2010,74017,Acute,5501
+2010,74017,Psychiatric,2
+2010,74039,Psychiatric,2181
+2010,74039,Chemical Dependency,609
+2010,74097,Acute,9389
+2010,84001,Acute,2805
+2010,90793,Acute,2708
+2010,90793,Skilled Nursing/Intermediate Care,55
+2010,90933,Acute,5785
+2010,90933,Skilled Nursing/Intermediate Care,243
+2010,94002,Psychiatric,333
+2010,100005,Acute,12822
+2010,100697,Acute,979
+2010,100697,Skilled Nursing/Intermediate Care,67
+2010,100717,Acute,38656
+2010,100717,Skilled Nursing/Intermediate Care,469
+2010,100717,Psychiatric,3561
+2010,100717,Physical Rehabilitation,598
+2010,100745,Skilled Nursing/Intermediate Care,25
+2010,100797,Acute,3227
+2010,100797,Skilled Nursing/Intermediate Care,17
+2010,100899,Acute,29351
+2010,104023,Acute,1511
+2010,104047,Acute,2392
+2010,104062,Acute,8582
+2010,104089,Psychiatric,900
+2010,105029,Acute,3477
+2010,110889,Acute,341
+2010,110889,Skilled Nursing/Intermediate Care,22
+2010,121002,Acute,2559
+2010,121031,Acute,46
+2010,121031,Skilled Nursing/Intermediate Care,18
+2010,121051,Acute,1906
+2010,121051,Skilled Nursing/Intermediate Care,25
+2010,121080,Acute,6822
+2010,121080,Physical Rehabilitation,161
+2010,124004,Psychiatric,601
+2010,130699,Acute,7635
+2010,130760,Acute,8482
+2010,141273,Acute,1074
+2010,141273,Skilled Nursing/Intermediate Care,7
+2010,141338,Acute,39
+2010,141338,Skilled Nursing/Intermediate Care,34
+2010,150706,Acute,4481
+2010,150706,Skilled Nursing/Intermediate Care,26
+2010,150722,Acute,20620
+2010,150736,Acute,14355
+2010,150736,Psychiatric,857
+2010,150737,Acute,771
+2010,150737,Skilled Nursing/Intermediate Care,239
+2010,150761,Acute,14194
+2010,150775,Acute,1451
+2010,150775,Psychiatric,2314
+2010,150775,Chemical Dependency,199
+2010,150782,Acute,3152
+2010,150788,Acute,20187
+2010,150808,Acute,219
+2010,150808,Skilled Nursing/Intermediate Care,20
+2010,154022,Physical Rehabilitation,1537
+2010,154101,Acute,3922
+2010,154147,Psychiatric,563
+2010,154160,Psychiatric,15
+2010,160702,Acute,412
+2010,160725,Acute,9977
+2010,160787,Acute,5713
+2010,164029,Acute,959
+2010,171049,Acute,1926
+2010,171049,Skilled Nursing/Intermediate Care,39
+2010,171395,Acute,2282
+2010,171395,Skilled Nursing/Intermediate Care,94
+2010,184008,Acute,1541
+2010,190017,Acute,3737
+2010,190017,Skilled Nursing/Intermediate Care,21
+2010,190017,Physical Rehabilitation,231
+2010,190020,Psychiatric,4216
+2010,190034,Acute,30220
+2010,190034,Psychiatric,672
+2010,190045,Acute,21
+2010,190045,Skilled Nursing/Intermediate Care,4
+2010,190049,Acute,823
+2010,190052,Acute,730
+2010,190053,Physical Rehabilitation,519
+2010,190066,Acute,5023
+2010,190066,Psychiatric,1152
+2010,190081,Acute,10219
+2010,190110,Acute,5217
+2010,190110,Skilled Nursing/Intermediate Care,161
+2010,190110,Psychiatric,1229
+2010,190110,Chemical Dependency,1012
+2010,190110,Physical Rehabilitation,314
+2010,190125,Acute,20515
+2010,190125,Skilled Nursing/Intermediate Care,460
+2010,190137,Physical Rehabilitation,1244
+2010,190148,Acute,20058
+2010,190150,Psychiatric,1062
+2010,190159,Acute,3507
+2010,190163,Psychiatric,4692
+2010,190170,Acute,11269
+2010,190170,Physical Rehabilitation,153
+2010,190176,Acute,6209
+2010,190184,Psychiatric,7100
+2010,190196,Acute,992
+2010,190197,Acute,3793
+2010,190198,Acute,5694
+2010,190198,Skilled Nursing/Intermediate Care,60
+2010,190200,Acute,9671
+2010,190200,Skilled Nursing/Intermediate Care,269
+2010,190232,Psychiatric,5118
+2010,190232,Chemical Dependency,94
+2010,190240,Acute,7717
+2010,190240,Physical Rehabilitation,65
+2010,190243,Acute,13080
+2010,190256,Acute,4860
+2010,190256,Skilled Nursing/Intermediate Care,14
+2010,190280,Acute,2024
+2010,190280,Skilled Nursing/Intermediate Care,26
+2010,190280,Psychiatric,263
+2010,190298,Acute,6121
+2010,190305,Acute,837
+2010,190307,Acute,7495
+2010,190307,Physical Rehabilitation,268
+2010,190315,Physical Rehabilitation,494
+2010,190317,Psychiatric,1002
+2010,190323,Acute,19187
+2010,190323,Skilled Nursing/Intermediate Care,1121
+2010,190323,Psychiatric,1705
+2010,190323,Physical Rehabilitation,544
+2010,190328,Acute,1714
+2010,190328,Psychiatric,515
+2010,190352,Acute,4543
+2010,190352,Skilled Nursing/Intermediate Care,14
+2010,190380,Acute,3483
+2010,190382,Acute,18532
+2010,190382,Skilled Nursing/Intermediate Care,239
+2010,190382,Psychiatric,1
+2010,190382,Chemical Dependency,2
+2010,190382,Physical Rehabilitation,357
+2010,190385,Acute,16870
+2010,190385,Skilled Nursing/Intermediate Care,35
+2010,190385,Physical Rehabilitation,215
+2010,190392,Acute,19491
+2010,190392,Skilled Nursing/Intermediate Care,661
+2010,190392,Physical Rehabilitation,212
+2010,190400,Acute,29040
+2010,190400,Psychiatric,1080
+2010,190400,Chemical Dependency,43
+2010,190400,Physical Rehabilitation,338
+2010,190410,Psychiatric,2577
+2010,190413,Acute,7000
+2010,190413,Skilled Nursing/Intermediate Care,645
+2010,190413,Psychiatric,1521
+2010,190422,Acute,27560
+2010,190422,Skilled Nursing/Intermediate Care,1553
+2010,190429,Acute,25792
+2010,190429,Psychiatric,2421
+2010,190431,Acute,16796
+2010,190432,Acute,15165
+2010,190434,Acute,14302
+2010,190449,Acute,2127
+2010,190455,Acute,5704
+2010,190455,Physical Rehabilitation,45
+2010,190462,Psychiatric,1752
+2010,190462,Chemical Dependency,436
+2010,190468,Acute,1535
+2010,190470,Acute,21680
+2010,190470,Skilled Nursing/Intermediate Care,2362
+2010,190475,Acute,2843
+2010,190475,Psychiatric,1239
+2010,190500,Acute,4738
+2010,190517,Acute,14738
+2010,190521,Acute,7878
+2010,190521,Skilled Nursing/Intermediate Care,113
+2010,190521,Unknown,2
+2010,190522,Acute,12688
+2010,190522,Psychiatric,1
+2010,190522,Physical Rehabilitation,286
+2010,190524,Acute,3443
+2010,190524,Psychiatric,3559
+2010,190525,Acute,22339
+2010,190525,Physical Rehabilitation,531
+2010,190529,Acute,16844
+2010,190529,Skilled Nursing/Intermediate Care,1088
+2010,190529,Physical Rehabilitation,412
+2010,190534,Acute,6603
+2010,190541,Acute,589
+2010,190547,Acute,6350
+2010,190552,Acute,303
+2010,190552,Skilled Nursing/Intermediate Care,72
+2010,190555,Acute,54613
+2010,190555,Psychiatric,1451
+2010,190555,Physical Rehabilitation,781
+2010,190568,Acute,18322
+2010,190568,Psychiatric,1821
+2010,190568,Physical Rehabilitation,293
+2010,190570,Acute,2723
+2010,190587,Acute,5391
+2010,190587,Psychiatric,2984
+2010,190630,Acute,27694
+2010,190630,Skilled Nursing/Intermediate Care,463
+2010,190631,Acute,21110
+2010,190631,Skilled Nursing/Intermediate Care,754
+2010,190631,Physical Rehabilitation,125
+2010,190636,Acute,17965
+2010,190636,Physical Rehabilitation,187
+2010,190661,Acute,2047
+2010,190661,Psychiatric,812
+2010,190673,Acute,4486
+2010,190673,Skilled Nursing/Intermediate Care,3
+2010,190673,Physical Rehabilitation,1
+2010,190680,Acute,6565
+2010,190680,Skilled Nursing/Intermediate Care,613
+2010,190680,Psychiatric,601
+2010,190680,Chemical Dependency,159
+2010,190680,Physical Rehabilitation,311
+2010,190681,Acute,248
+2010,190687,Acute,16045
+2010,190696,Acute,3625
+2010,190696,Skilled Nursing/Intermediate Care,87
+2010,190696,Psychiatric,1701
+2010,190708,Acute,3851
+2010,190708,Psychiatric,127
+2010,190712,Acute,1537
+2010,190754,Acute,23133
+2010,190754,Skilled Nursing/Intermediate Care,396
+2010,190754,Psychiatric,1602
+2010,190756,Acute,15947
+2010,190758,Acute,19738
+2010,190758,Physical Rehabilitation,333
+2010,190762,Acute,8149
+2010,190762,Skilled Nursing/Intermediate Care,791
+2010,190762,Physical Rehabilitation,307
+2010,190766,Acute,3874
+2010,190782,Psychiatric,2144
+2010,190784,Acute,3254
+2010,190784,Skilled Nursing/Intermediate Care,12
+2010,190796,Acute,24941
+2010,190796,Physical Rehabilitation,207
+2010,190812,Acute,20730
+2010,190812,Physical Rehabilitation,276
+2010,190814,Psychiatric,3166
+2010,190818,Acute,5755
+2010,190818,Skilled Nursing/Intermediate Care,923
+2010,190818,Psychiatric,517
+2010,190854,Acute,2374
+2010,190854,Psychiatric,2150
+2010,190857,Acute,207
+2010,190857,Skilled Nursing/Intermediate Care,20
+2010,190859,Acute,8908
+2010,190878,Acute,20477
+2010,190878,Skilled Nursing/Intermediate Care,449
+2010,190878,Psychiatric,1832
+2010,190878,Physical Rehabilitation,319
+2010,190883,Acute,10170
+2010,190883,Skilled Nursing/Intermediate Care,27
+2010,190930,Psychiatric,1864
+2010,190949,Acute,12404
+2010,190949,Psychiatric,1047
+2010,190949,Physical Rehabilitation,159
+2010,191216,Acute,277
+2010,191225,Chemical Dependency,667
+2010,191227,Acute,22400
+2010,191227,Psychiatric,851
+2010,191228,Acute,33928
+2010,191228,Psychiatric,1194
+2010,191231,Acute,13533
+2010,191231,Psychiatric,737
+2010,191306,Acute,2506
+2010,191306,Physical Rehabilitation,1492
+2010,191450,Acute,13703
+2010,194010,Chemical Dependency,1353
+2010,194219,Acute,9413
+2010,194219,Psychiatric,187
+2010,194219,Physical Rehabilitation,3
+2010,194967,Psychiatric,75
+2010,194981,Psychiatric,113
+2010,196035,Acute,17980
+2010,196168,Acute,19550
+2010,196403,Acute,23910
+2010,196404,Skilled Nursing/Intermediate Care,257
+2010,196404,Psychiatric,116
+2010,201281,Acute,7224
+2010,204019,Acute,13405
+2010,204019,Physical Rehabilitation,60
+2010,210992,Acute,5921
+2010,210993,Acute,489
+2010,211006,Acute,10408
+2010,211006,Psychiatric,677
+2010,214034,Acute,1689
+2010,220733,Acute,234
+2010,220733,Skilled Nursing/Intermediate Care,41
+2010,230949,Acute,1379
+2010,230949,Skilled Nursing/Intermediate Care,23
+2010,231013,Acute,1335
+2010,231013,Skilled Nursing/Intermediate Care,153
+2010,231396,Acute,4707
+2010,240924,Acute,2313
+2010,240942,Acute,14292
+2010,244027,Psychiatric,573
+2010,250955,Acute,16
+2010,250955,Skilled Nursing/Intermediate Care,19
+2010,250956,Acute,193
+2010,250956,Skilled Nursing/Intermediate Care,87
+2010,260011,Acute,706
+2010,270744,Acute,11977
+2010,270744,Psychiatric,556
+2010,270777,Acute,2194
+2010,270777,Skilled Nursing/Intermediate Care,149
+2010,270777,Physical Rehabilitation,1
+2010,270875,Acute,12513
+2010,274043,Acute,9054
+2010,274043,Psychiatric,591
+2010,274043,Physical Rehabilitation,356
+2010,281047,Acute,8658
+2010,281047,Physical Rehabilitation,214
+2010,281078,Acute,5114
+2010,281078,Psychiatric,746
+2010,291023,Acute,5751
+2010,291023,Skilled Nursing/Intermediate Care,389
+2010,291053,Acute,2204
+2010,291053,Skilled Nursing/Intermediate Care,50
+2010,300032,Acute,11713
+2010,300225,Acute,13804
+2010,301097,Acute,362
+2010,301097,Skilled Nursing/Intermediate Care,20
+2010,301097,Psychiatric,4
+2010,301098,Acute,14511
+2010,301127,Acute,478
+2010,301127,Skilled Nursing/Intermediate Care,263
+2010,301132,Acute,27419
+2010,301140,Acute,1531
+2010,301140,Skilled Nursing/Intermediate Care,18
+2010,301140,Psychiatric,271
+2010,301140,Chemical Dependency,292
+2010,301140,Physical Rehabilitation,1
+2010,301155,Acute,623
+2010,301155,Psychiatric,3106
+2010,301175,Acute,20227
+2010,301188,Acute,6703
+2010,301188,Psychiatric,3112
+2010,301205,Acute,33595
+2010,301205,Chemical Dependency,469
+2010,301209,Acute,3446
+2010,301209,Psychiatric,257
+2010,301234,Acute,4087
+2010,301234,Psychiatric,318
+2010,301248,Acute,10677
+2010,301248,Psychiatric,384
+2010,301248,Chemical Dependency,1
+2010,301258,Acute,5905
+2010,301258,Skilled Nursing/Intermediate Care,33
+2010,301258,Psychiatric,422
+2010,301262,Acute,21547
+2010,301262,Physical Rehabilitation,430
+2010,301279,Acute,15221
+2010,301279,Psychiatric,1409
+2010,301279,Physical Rehabilitation,200
+2010,301283,Acute,8863
+2010,301297,Acute,4276
+2010,301304,Psychiatric,798
+2010,301317,Acute,19968
+2010,301317,Physical Rehabilitation,66
+2010,301337,Acute,2396
+2010,301337,Psychiatric,920
+2010,301337,Chemical Dependency,840
+2010,301340,Acute,23425
+2010,301340,Psychiatric,1816
+2010,301340,Chemical Dependency,7
+2010,301342,Acute,17651
+2010,301342,Skilled Nursing/Intermediate Care,989
+2010,301342,Physical Rehabilitation,609
+2010,301357,Acute,347
+2010,301357,Skilled Nursing/Intermediate Care,21
+2010,301379,Acute,6137
+2010,301379,Psychiatric,397
+2010,301380,Acute,985
+2010,301566,Acute,11383
+2010,304079,Physical Rehabilitation,1271
+2010,304113,Acute,1900
+2010,304159,Skilled Nursing/Intermediate Care,33
+2010,304159,Physical Rehabilitation,41
+2010,304426,Psychiatric,87
+2010,304460,Acute,336
+2010,310791,Acute,4493
+2010,311000,Acute,18332
+2010,311000,Skilled Nursing/Intermediate Care,19
+2010,311000,Physical Rehabilitation,835
+2010,314029,Psychiatric,772
+2010,320859,Acute,449
+2010,320859,Skilled Nursing/Intermediate Care,85
+2010,320986,Acute,556
+2010,321016,Acute,218
+2010,321016,Skilled Nursing/Intermediate Care,36
+2010,330120,Chemical Dependency,972
+2010,331152,Acute,10305
+2010,331152,Skilled Nursing/Intermediate Care,43
+2010,331152,Psychiatric,462
+2010,331152,Physical Rehabilitation,149
+2010,331164,Acute,19405
+2010,331164,Skilled Nursing/Intermediate Care,1011
+2010,331164,Psychiatric,3
+2010,331164,Physical Rehabilitation,143
+2010,331168,Acute,18704
+2010,331168,Psychiatric,1
+2010,331194,Acute,11538
+2010,331194,Skilled Nursing/Intermediate Care,36
+2010,331194,Chemical Dependency,729
+2010,331216,Acute,11205
+2010,331216,Chemical Dependency,1
+2010,331226,Psychiatric,494
+2010,331226,Chemical Dependency,414
+2010,331288,Acute,1692
+2010,331293,Acute,10765
+2010,331312,Acute,23142
+2010,331326,Acute,3337
+2010,331326,Skilled Nursing/Intermediate Care,304
+2010,332172,Acute,362
+2010,334018,Acute,4325
+2010,334025,Acute,18055
+2010,334048,Acute,6407
+2010,334048,Psychiatric,866
+2010,334068,Acute,22944
+2010,334457,Psychiatric,785
+2010,334487,Acute,19096
+2010,334487,Psychiatric,4494
+2010,340913,Acute,37232
+2010,340947,Acute,20964
+2010,340947,Skilled Nursing/Intermediate Care,596
+2010,340947,Physical Rehabilitation,353
+2010,340950,Acute,22936
+2010,340951,Acute,9754
+2010,340951,Skilled Nursing/Intermediate Care,708
+2010,340951,Unknown,1
+2010,341006,Acute,29352
+2010,341006,Physical Rehabilitation,267
+2010,341051,Acute,11658
+2010,341051,Skilled Nursing/Intermediate Care,679
+2010,341052,Acute,21704
+2010,342344,Acute,15107
+2010,342392,Psychiatric,3782
+2010,344011,Psychiatric,1790
+2010,344017,Psychiatric,2198
+2010,344021,Psychiatric,2669
+2010,344029,Acute,5504
+2010,344035,Acute,325
+2010,344114,Acute,1221
+2010,344114,Physical Rehabilitation,28
+2010,344170,Psychiatric,386
+2010,350784,Acute,2928
+2010,350784,Skilled Nursing/Intermediate Care,231
+2010,361105,Acute,2538
+2010,361110,Acute,412
+2010,361110,Skilled Nursing/Intermediate Care,1
+2010,361144,Acute,6504
+2010,361166,Acute,6052
+2010,361223,Acute,29428
+2010,361223,Chemical Dependency,834
+2010,361223,Physical Rehabilitation,2
+2010,361246,Acute,32464
+2010,361246,Physical Rehabilitation,485
+2010,361266,Acute,266
+2010,361266,Skilled Nursing/Intermediate Care,23
+2010,361274,Acute,1120
+2010,361308,Acute,13287
+2010,361308,Skilled Nursing/Intermediate Care,660
+2010,361308,Psychiatric,694
+2010,361318,Acute,17412
+2010,361323,Acute,10933
+2010,361323,Skilled Nursing/Intermediate Care,108
+2010,361323,Psychiatric,2931
+2010,361339,Acute,19250
+2010,361343,Acute,18377
+2010,361370,Acute,7805
+2010,361458,Acute,492
+2010,362041,Acute,3840
+2010,362041,Skilled Nursing/Intermediate Care,526
+2010,364014,Psychiatric,3726
+2010,364014,Chemical Dependency,565
+2010,364050,Psychiatric,4429
+2010,364121,Physical Rehabilitation,1085
+2010,364144,Acute,7560
+2010,364188,Acute,822
+2010,364188,Unknown,2
+2010,364231,Acute,23435
+2010,364231,Psychiatric,3690
+2010,370652,Acute,9013
+2010,370652,Physical Rehabilitation,308
+2010,370673,Acute,13549
+2010,370673,Skilled Nursing/Intermediate Care,135
+2010,370673,Physical Rehabilitation,49
+2010,370689,Acute,2971
+2010,370689,Skilled Nursing/Intermediate Care,320
+2010,370694,Acute,37077
+2010,370694,Physical Rehabilitation,417
+2010,370705,Acute,2982
+2010,370705,Skilled Nursing/Intermediate Care,383
+2010,370714,Acute,29986
+2010,370714,Skilled Nursing/Intermediate Care,119
+2010,370714,Psychiatric,1319
+2010,370714,Physical Rehabilitation,368
+2010,370721,Acute,626
+2010,370730,Acute,32042
+2010,370744,Acute,34400
+2010,370744,Psychiatric,1981
+2010,370745,Psychiatric,5435
+2010,370749,Psychiatric,2024
+2010,370749,Chemical Dependency,249
+2010,370755,Acute,22283
+2010,370755,Skilled Nursing/Intermediate Care,442
+2010,370755,Psychiatric,1202
+2010,370755,Physical Rehabilitation,442
+2010,370759,Acute,7313
+2010,370759,Psychiatric,3464
+2010,370759,Physical Rehabilitation,191
+2010,370771,Acute,20298
+2010,370771,Chemical Dependency,612
+2010,370780,Acute,18110
+2010,370780,Psychiatric,875
+2010,370780,Physical Rehabilitation,184
+2010,370782,Acute,25159
+2010,370782,Psychiatric,1498
+2010,370787,Acute,594
+2010,370787,Psychiatric,1283
+2010,370875,Acute,17782
+2010,370875,Skilled Nursing/Intermediate Care,595
+2010,370977,Acute,7401
+2010,370977,Skilled Nursing/Intermediate Care,614
+2010,370977,Psychiatric,256
+2010,371256,Acute,12006
+2010,371394,Acute,11023
+2010,371394,Physical Rehabilitation,627
+2010,374024,Psychiatric,2450
+2010,374024,Chemical Dependency,464
+2010,374049,Chemical Dependency,213
+2010,374055,Skilled Nursing/Intermediate Care,73
+2010,374055,Psychiatric,2041
+2010,374084,Acute,873
+2010,374094,Acute,828
+2010,380842,Skilled Nursing/Intermediate Care,596
+2010,380842,Psychiatric,62
+2010,380857,Acute,15714
+2010,380865,Acute,156
+2010,380865,Skilled Nursing/Intermediate Care,847
+2010,380865,Physical Rehabilitation,42
+2010,380868,Psychiatric,747
+2010,380929,Acute,29486
+2010,380929,Skilled Nursing/Intermediate Care,1701
+2010,380929,Psychiatric,581
+2010,380929,Physical Rehabilitation,540
+2010,380939,Acute,13814
+2010,380939,Skilled Nursing/Intermediate Care,437
+2010,380939,Psychiatric,2109
+2010,380960,Acute,4682
+2010,380960,Psychiatric,1444
+2010,380960,Physical Rehabilitation,441
+2010,380964,Acute,4701
+2010,380964,Skilled Nursing/Intermediate Care,406
+2010,380965,Acute,5062
+2010,380965,Skilled Nursing/Intermediate Care,762
+2010,380965,Psychiatric,628
+2010,380965,Physical Rehabilitation,414
+2010,381154,Acute,30084
+2010,382715,Acute,1936
+2010,390846,Acute,11109
+2010,390923,Acute,8899
+2010,390923,Skilled Nursing/Intermediate Care,50
+2010,390923,Physical Rehabilitation,142
+2010,391010,Acute,10732
+2010,391042,Acute,18672
+2010,391042,Skilled Nursing/Intermediate Care,545
+2010,391056,Acute,4654
+2010,392232,Psychiatric,1488
+2010,392287,Acute,4280
+2010,394003,Psychiatric,1402
+2010,394009,Acute,11819
+2010,394009,Skilled Nursing/Intermediate Care,80
+2010,400466,Acute,2687
+2010,400466,Skilled Nursing/Intermediate Care,178
+2010,400480,Acute,5324
+2010,400524,Acute,7125
+2010,400548,Acute,6718
+2010,404046,Psychiatric,1319
+2010,410782,Acute,2801
+2010,410782,Skilled Nursing/Intermediate Care,415
+2010,410782,Psychiatric,773
+2010,410804,Acute,8736
+2010,410806,Acute,5900
+2010,410817,Acute,8451
+2010,410817,Skilled Nursing/Intermediate Care,576
+2010,410828,Skilled Nursing/Intermediate Care,63
+2010,410852,Acute,13689
+2010,410852,Skilled Nursing/Intermediate Care,511
+2010,410852,Psychiatric,793
+2010,410852,Chemical Dependency,379
+2010,410852,Physical Rehabilitation,105
+2010,410891,Acute,8225
+2010,410891,Psychiatric,925
+2010,414018,Acute,413
+2010,420483,Acute,1615
+2010,420483,Skilled Nursing/Intermediate Care,21
+2010,420491,Acute,2714
+2010,420491,Skilled Nursing/Intermediate Care,216
+2010,420493,Acute,12469
+2010,420493,Skilled Nursing/Intermediate Care,456
+2010,420514,Acute,19187
+2010,420514,Psychiatric,1095
+2010,420514,Chemical Dependency,1
+2010,420514,Physical Rehabilitation,583
+2010,420522,Acute,316
+2010,420522,Skilled Nursing/Intermediate Care,1
+2010,424002,Psychiatric,513
+2010,430705,Acute,10345
+2010,430763,Acute,22479
+2010,430763,Psychiatric,987
+2010,430763,Physical Rehabilitation,123
+2010,430779,Acute,18546
+2010,430779,Skilled Nursing/Intermediate Care,5
+2010,430779,Psychiatric,690
+2010,430779,Physical Rehabilitation,321
+2010,430837,Acute,15699
+2010,430837,Skilled Nursing/Intermediate Care,505
+2010,430883,Acute,25712
+2010,430883,Psychiatric,952
+2010,430883,Physical Rehabilitation,545
+2010,430905,Acute,23475
+2010,430905,Psychiatric,867
+2010,431506,Acute,13725
+2010,434040,Acute,16422
+2010,434051,Skilled Nursing/Intermediate Care,19
+2010,434138,Acute,4196
+2010,434153,Acute,25657
+2010,434218,Psychiatric,113
+2010,440755,Acute,11245
+2010,440755,Skilled Nursing/Intermediate Care,766
+2010,500967,Acute,1604
+2010,440755,Psychiatric,949
+2010,440755,Physical Rehabilitation,409
+2010,444012,Acute,2600
+2010,444012,Unknown,1
+2010,444013,Acute,6697
+2010,450936,Acute,476
+2010,450936,Skilled Nursing/Intermediate Care,88
+2010,450940,Acute,8017
+2010,450949,Acute,16336
+2010,454012,Acute,623
+2010,454012,Skilled Nursing/Intermediate Care,621
+2010,454013,Acute,300
+2010,470871,Acute,1346
+2010,470871,Skilled Nursing/Intermediate Care,84
+2010,474007,Acute,1814
+2010,480989,Acute,12824
+2010,480989,Physical Rehabilitation,853
+2010,481015,Psychiatric,2128
+2010,481094,Acute,5891
+2010,481357,Acute,6829
+2010,484001,Acute,2692
+2010,484028,Psychiatric,559
+2010,484044,Acute,3523
+2010,490919,Acute,7514
+2010,490964,Acute,777
+2010,490964,Skilled Nursing/Intermediate Care,118
+2010,491001,Acute,3444
+2010,491064,Acute,12698
+2010,491064,Physical Rehabilitation,224
+2010,491076,Acute,1762
+2010,491076,Skilled Nursing/Intermediate Care,459
+2010,491338,Acute,1217
+2010,494019,Acute,10644
+2010,500852,Acute,20158
+2010,500852,Psychiatric,3701
+2010,500852,Chemical Dependency,30
+2010,500867,Acute,11546
+2010,500867,Skilled Nursing/Intermediate Care,649
+2010,500939,Acute,23025
+2010,500954,Skilled Nursing/Intermediate Care,1
+2010,500967,Skilled Nursing/Intermediate Care,277
+2010,504038,Acute,960
+2010,514001,Psychiatric,354
+2010,514030,Acute,679
+2010,514033,Psychiatric,525
+2010,521041,Acute,4003
+2010,521041,Skilled Nursing/Intermediate Care,8
+2010,531059,Acute,455
+2010,531059,Skilled Nursing/Intermediate Care,36
+2010,540734,Acute,25489
+2010,540734,Skilled Nursing/Intermediate Care,372
+2010,540734,Psychiatric,1519
+2010,540734,Physical Rehabilitation,489
+2010,540798,Acute,9555
+2010,540798,Skilled Nursing/Intermediate Care,31
+2010,540816,Acute,6808
+2010,551061,Skilled Nursing/Intermediate Care,11
+2010,554011,Acute,5190
+2010,554011,Skilled Nursing/Intermediate Care,319
+2010,560203,Psychiatric,3276
+2010,560473,Acute,15477
+2010,560481,Acute,13317
+2010,560481,Psychiatric,2632
+2010,560492,Acute,14882
+2010,560492,Skilled Nursing/Intermediate Care,698
+2010,560492,Physical Rehabilitation,145
+2010,560501,Acute,833
+2010,560501,Skilled Nursing/Intermediate Care,273
+2010,560508,Acute,3662
+2010,560508,Skilled Nursing/Intermediate Care,37
+2010,560525,Acute,6383
+2010,560525,Skilled Nursing/Intermediate Care,385
+2010,560529,Acute,13842
+2010,560529,Physical Rehabilitation,338
+2010,560838,Psychiatric,170
+2010,564121,Acute,1223
+2010,571086,Acute,4089
+2010,571086,Psychiatric,964
+2010,574010,Acute,4729
+2010,580996,Acute,14089
+2011,10735,Acute,2644
+2011,10735,Skilled Nursing/Intermediate Care,133
+2011,10739,Acute,23876
+2011,10776,Acute,10139
+2011,10776,Physical Rehabilitation,116
+2011,10782,Chemical Dependency,131
+2011,10805,Acute,10061
+2011,10805,Psychiatric,444
+2011,10844,Skilled Nursing/Intermediate Care,3
+2011,10844,Psychiatric,2706
+2011,10844,Physical Rehabilitation,745
+2011,10846,Acute,11595
+2011,10846,Skilled Nursing/Intermediate Care,173
+2011,10846,Psychiatric,2856
+2011,10846,Physical Rehabilitation,515
+2011,10856,Acute,20781
+2011,10858,Acute,17629
+2011,10887,Acute,474
+2011,10937,Acute,12703
+2011,10937,Skilled Nursing/Intermediate Care,769
+2011,10967,Acute,8707
+2011,10967,Skilled Nursing/Intermediate Care,246
+2011,10987,Acute,14679
+2011,13619,Acute,3707
+2011,13687,Chemical Dependency,515
+2011,14034,Psychiatric,2982
+2011,14050,Acute,8282
+2011,14050,Skilled Nursing/Intermediate Care,489
+2011,14050,Psychiatric,201
+2011,14207,Psychiatric,1207
+2011,14226,Psychiatric,483
+2011,34002,Acute,2549
+2011,40802,Acute,831
+2011,40802,Skilled Nursing/Intermediate Care,55
+2011,40875,Acute,6347
+2011,40937,Acute,9448
+2011,40937,Skilled Nursing/Intermediate Care,653
+2011,40962,Acute,14671
+2011,40962,Psychiatric,635
+2011,40962,Physical Rehabilitation,526
+2011,44006,Psychiatric,638
+2011,50932,Acute,1348
+2011,50932,Skilled Nursing/Intermediate Care,11
+2011,60870,Acute,1133
+2011,60870,Skilled Nursing/Intermediate Care,77
+2011,70904,Acute,5996
+2011,70924,Acute,10025
+2011,70924,Psychiatric,839
+2011,70934,Acute,8699
+2011,70988,Acute,19119
+2011,70988,Physical Rehabilitation,591
+2011,70990,Acute,17790
+2011,71018,Acute,9228
+2011,74017,Acute,5378
+2011,74039,Psychiatric,2201
+2011,74039,Chemical Dependency,646
+2011,74097,Acute,9000
+2011,84001,Acute,2598
+2011,90793,Acute,2593
+2011,90793,Skilled Nursing/Intermediate Care,60
+2011,90933,Acute,5711
+2011,90933,Skilled Nursing/Intermediate Care,233
+2011,94002,Psychiatric,343
+2011,100005,Acute,13050
+2011,100697,Acute,577
+2011,100697,Skilled Nursing/Intermediate Care,86
+2011,100717,Acute,39052
+2011,100717,Skilled Nursing/Intermediate Care,451
+2011,100717,Psychiatric,3447
+2011,100717,Physical Rehabilitation,624
+2011,100797,Acute,3017
+2011,100797,Skilled Nursing/Intermediate Care,3
+2011,100899,Acute,29480
+2011,104023,Acute,1507
+2011,104047,Acute,2069
+2011,104062,Acute,8535
+2011,104089,Psychiatric,1225
+2011,105029,Acute,3366
+2011,110889,Acute,322
+2011,110889,Skilled Nursing/Intermediate Care,22
+2011,121002,Acute,2255
+2011,121031,Acute,50
+2011,121031,Skilled Nursing/Intermediate Care,22
+2011,121051,Acute,1780
+2011,121051,Skilled Nursing/Intermediate Care,67
+2011,121080,Acute,6862
+2011,121080,Physical Rehabilitation,185
+2011,124004,Psychiatric,572
+2011,130699,Acute,7266
+2011,130760,Acute,8284
+2011,141273,Acute,1023
+2011,141273,Skilled Nursing/Intermediate Care,14
+2011,141338,Acute,75
+2011,141338,Skilled Nursing/Intermediate Care,30
+2011,150706,Acute,4036
+2011,150706,Skilled Nursing/Intermediate Care,39
+2011,150722,Acute,20835
+2011,150736,Acute,13179
+2011,150736,Psychiatric,723
+2011,150737,Acute,653
+2011,150737,Skilled Nursing/Intermediate Care,211
+2011,150761,Acute,14993
+2011,150775,Acute,1147
+2011,150775,Psychiatric,1697
+2011,150775,Chemical Dependency,270
+2011,150782,Acute,2806
+2011,150788,Acute,22360
+2011,154022,Physical Rehabilitation,1555
+2011,154101,Acute,4043
+2011,154147,Psychiatric,455
+2011,154160,Psychiatric,346
+2011,160787,Acute,3974
+2011,164029,Acute,12783
+2011,171049,Acute,1885
+2011,171049,Skilled Nursing/Intermediate Care,55
+2011,171395,Acute,2257
+2011,171395,Skilled Nursing/Intermediate Care,90
+2011,184008,Acute,1600
+2011,190017,Acute,3891
+2011,190017,Skilled Nursing/Intermediate Care,37
+2011,190017,Physical Rehabilitation,287
+2011,190020,Psychiatric,4719
+2011,190045,Acute,25
+2011,190045,Skilled Nursing/Intermediate Care,7
+2011,190049,Acute,805
+2011,190052,Acute,799
+2011,190053,Acute,13918
+2011,190053,Physical Rehabilitation,481
+2011,190066,Acute,4918
+2011,190066,Psychiatric,1359
+2011,190081,Acute,9604
+2011,190110,Acute,5806
+2011,190110,Skilled Nursing/Intermediate Care,32
+2011,190110,Psychiatric,1634
+2011,190110,Chemical Dependency,936
+2011,190110,Physical Rehabilitation,324
+2011,190125,Acute,20010
+2011,190125,Skilled Nursing/Intermediate Care,528
+2011,190137,Physical Rehabilitation,1237
+2011,190148,Acute,18987
+2011,190148,Skilled Nursing/Intermediate Care,45
+2011,190150,Psychiatric,941
+2011,190159,Acute,3226
+2011,190163,Psychiatric,5058
+2011,190170,Acute,11693
+2011,190170,Physical Rehabilitation,172
+2011,190176,Acute,6063
+2011,190184,Psychiatric,6045
+2011,190196,Acute,1092
+2011,190197,Acute,3879
+2011,190198,Acute,5507
+2011,190198,Skilled Nursing/Intermediate Care,117
+2011,190200,Acute,10671
+2011,190200,Skilled Nursing/Intermediate Care,247
+2011,190200,Psychiatric,138
+2011,190200,Unknown,1
+2011,190232,Psychiatric,5790
+2011,190232,Chemical Dependency,55
+2011,190240,Acute,8040
+2011,190243,Acute,13020
+2011,190256,Acute,5183
+2011,190256,Skilled Nursing/Intermediate Care,37
+2011,190280,Acute,1533
+2011,190280,Skilled Nursing/Intermediate Care,24
+2011,190280,Psychiatric,253
+2011,190298,Acute,6351
+2011,190305,Acute,914
+2011,190307,Acute,8161
+2011,190307,Physical Rehabilitation,275
+2011,190315,Acute,14795
+2011,190315,Physical Rehabilitation,515
+2011,190317,Psychiatric,1021
+2011,190323,Acute,19348
+2011,190323,Skilled Nursing/Intermediate Care,949
+2011,190323,Psychiatric,1726
+2011,190323,Physical Rehabilitation,569
+2011,190328,Acute,1524
+2011,190328,Psychiatric,532
+2011,190352,Acute,4314
+2011,190352,Skilled Nursing/Intermediate Care,8
+2011,190380,Acute,3580
+2011,190382,Acute,17525
+2011,190382,Skilled Nursing/Intermediate Care,152
+2011,190382,Physical Rehabilitation,438
+2011,190385,Acute,17641
+2011,190385,Skilled Nursing/Intermediate Care,37
+2011,190385,Physical Rehabilitation,203
+2011,190392,Acute,18724
+2011,190392,Skilled Nursing/Intermediate Care,242
+2011,190392,Physical Rehabilitation,106
+2011,190400,Acute,29230
+2011,190400,Psychiatric,954
+2011,190400,Chemical Dependency,382
+2011,190400,Physical Rehabilitation,300
+2011,190410,Psychiatric,2957
+2011,190413,Acute,7281
+2011,190413,Skilled Nursing/Intermediate Care,715
+2011,190413,Psychiatric,1513
+2011,190413,Physical Rehabilitation,1
+2011,190413,Unknown,1
+2011,190422,Acute,26378
+2011,190422,Skilled Nursing/Intermediate Care,1526
+2011,190429,Acute,26986
+2011,190429,Psychiatric,2094
+2011,190431,Acute,16571
+2011,190432,Acute,14439
+2011,190434,Acute,14229
+2011,190449,Acute,2252
+2011,190462,Psychiatric,1973
+2011,190462,Chemical Dependency,382
+2011,190468,Acute,1611
+2011,190470,Acute,21049
+2011,190470,Skilled Nursing/Intermediate Care,2019
+2011,190470,Physical Rehabilitation,1
+2011,190475,Acute,2769
+2011,190475,Psychiatric,1366
+2011,190500,Acute,4413
+2011,190517,Acute,15879
+2011,190521,Acute,8067
+2011,190521,Skilled Nursing/Intermediate Care,96
+2011,190522,Acute,12856
+2011,190522,Physical Rehabilitation,180
+2011,190524,Acute,3604
+2011,190524,Psychiatric,3330
+2011,190525,Acute,20828
+2011,190525,Physical Rehabilitation,546
+2011,190529,Acute,16747
+2011,190529,Skilled Nursing/Intermediate Care,1081
+2011,190529,Physical Rehabilitation,471
+2011,190534,Acute,6094
+2011,190534,Psychiatric,1
+2011,190541,Acute,663
+2011,190547,Acute,6655
+2011,190552,Acute,229
+2011,190552,Skilled Nursing/Intermediate Care,42
+2011,190555,Acute,54016
+2011,190555,Psychiatric,837
+2011,190555,Physical Rehabilitation,769
+2011,190568,Acute,18305
+2011,190568,Psychiatric,1827
+2011,190568,Physical Rehabilitation,291
+2011,190570,Acute,2835
+2011,190630,Acute,27978
+2011,190631,Acute,20819
+2011,190631,Skilled Nursing/Intermediate Care,714
+2011,190631,Physical Rehabilitation,148
+2011,190636,Acute,19924
+2011,190636,Physical Rehabilitation,166
+2011,190680,Acute,6255
+2011,190680,Skilled Nursing/Intermediate Care,580
+2011,190680,Psychiatric,573
+2011,190680,Chemical Dependency,148
+2011,190680,Physical Rehabilitation,322
+2011,190687,Acute,15803
+2011,190696,Acute,3738
+2011,190696,Skilled Nursing/Intermediate Care,82
+2011,190696,Psychiatric,1721
+2011,190708,Acute,3929
+2011,190708,Psychiatric,297
+2011,190712,Acute,1116
+2011,190754,Acute,22240
+2011,190754,Skilled Nursing/Intermediate Care,381
+2011,190754,Psychiatric,1822
+2011,190756,Acute,14248
+2011,190758,Acute,20238
+2011,190758,Physical Rehabilitation,312
+2011,190762,Acute,8431
+2011,190762,Skilled Nursing/Intermediate Care,722
+2011,190762,Physical Rehabilitation,402
+2011,190766,Acute,3593
+2011,190782,Psychiatric,2157
+2011,190784,Acute,2732
+2011,190784,Skilled Nursing/Intermediate Care,19
+2011,190796,Acute,25075
+2011,190796,Physical Rehabilitation,206
+2011,190812,Acute,19430
+2011,190812,Physical Rehabilitation,282
+2011,190814,Psychiatric,3100
+2011,190818,Acute,5454
+2011,190818,Skilled Nursing/Intermediate Care,792
+2011,190818,Psychiatric,535
+2011,190854,Acute,1625
+2011,190854,Psychiatric,3591
+2011,190857,Acute,186
+2011,190857,Skilled Nursing/Intermediate Care,19
+2011,190859,Acute,8684
+2011,190878,Acute,20862
+2011,190878,Skilled Nursing/Intermediate Care,424
+2011,190878,Psychiatric,1921
+2011,190878,Physical Rehabilitation,327
+2011,190883,Acute,9603
+2011,190883,Skilled Nursing/Intermediate Care,31
+2011,190930,Psychiatric,2022
+2011,190949,Acute,11264
+2011,190949,Psychiatric,1054
+2011,190949,Physical Rehabilitation,152
+2011,191216,Acute,2
+2011,191225,Chemical Dependency,714
+2011,191227,Acute,21073
+2011,191227,Psychiatric,790
+2011,191228,Acute,32346
+2011,191228,Psychiatric,1114
+2011,191231,Acute,13601
+2011,191231,Psychiatric,752
+2011,191306,Acute,2285
+2011,191306,Physical Rehabilitation,1590
+2011,191450,Acute,13201
+2011,194010,Chemical Dependency,1267
+2011,194219,Acute,10067
+2011,194219,Psychiatric,193
+2011,194219,Physical Rehabilitation,2
+2011,194967,Psychiatric,92
+2011,194981,Psychiatric,95
+2011,196035,Acute,17330
+2011,196168,Acute,20181
+2011,196403,Acute,24379
+2011,196404,Skilled Nursing/Intermediate Care,237
+2011,196404,Psychiatric,168
+2011,196405,Acute,7649
+2011,201281,Acute,6797
+2011,204019,Acute,13473
+2011,204019,Physical Rehabilitation,70
+2011,210992,Acute,5531
+2011,210993,Acute,516
+2011,214034,Acute,1614
+2011,220733,Acute,208
+2011,220733,Skilled Nursing/Intermediate Care,34
+2011,230949,Acute,1287
+2011,230949,Skilled Nursing/Intermediate Care,44
+2011,231013,Acute,1319
+2011,231013,Skilled Nursing/Intermediate Care,199
+2011,231396,Acute,4814
+2011,240924,Acute,2310
+2011,240942,Acute,14399
+2011,244027,Psychiatric,564
+2011,250955,Acute,10
+2011,250955,Skilled Nursing/Intermediate Care,13
+2011,250956,Acute,207
+2011,250956,Skilled Nursing/Intermediate Care,72
+2011,260011,Acute,759
+2011,270744,Acute,12334
+2011,270744,Psychiatric,609
+2011,270777,Acute,1931
+2011,270777,Skilled Nursing/Intermediate Care,179
+2011,270777,Physical Rehabilitation,1
+2011,270777,Unknown,1
+2011,270875,Acute,12080
+2011,274043,Acute,9818
+2011,274043,Psychiatric,593
+2011,274043,Physical Rehabilitation,392
+2011,281047,Acute,8363
+2011,281047,Physical Rehabilitation,305
+2011,281078,Acute,5557
+2011,281078,Psychiatric,715
+2011,291023,Acute,5604
+2011,291023,Skilled Nursing/Intermediate Care,390
+2011,291053,Acute,2062
+2011,291053,Skilled Nursing/Intermediate Care,54
+2011,300032,Acute,12067
+2011,300225,Acute,13767
+2011,301097,Acute,704
+2011,301097,Skilled Nursing/Intermediate Care,31
+2011,301097,Psychiatric,99
+2011,301098,Acute,14644
+2011,301127,Acute,469
+2011,301127,Skilled Nursing/Intermediate Care,300
+2011,301132,Acute,26280
+2011,301140,Acute,1371
+2011,301140,Skilled Nursing/Intermediate Care,15
+2011,301140,Psychiatric,280
+2011,301140,Chemical Dependency,355
+2011,301140,Physical Rehabilitation,1
+2011,301155,Acute,551
+2011,301155,Psychiatric,2788
+2011,301175,Acute,20761
+2011,301188,Acute,5684
+2011,301188,Psychiatric,2968
+2011,301205,Acute,30743
+2011,301205,Chemical Dependency,455
+2011,301209,Acute,3055
+2011,301209,Psychiatric,302
+2011,301234,Acute,3495
+2011,301234,Psychiatric,292
+2011,301248,Acute,11098
+2011,301248,Psychiatric,384
+2011,301258,Acute,5342
+2011,301258,Skilled Nursing/Intermediate Care,31
+2011,301258,Psychiatric,421
+2011,301262,Acute,19937
+2011,301262,Physical Rehabilitation,431
+2011,301279,Acute,16165
+2011,301279,Psychiatric,1473
+2011,301279,Physical Rehabilitation,227
+2011,301283,Acute,8088
+2011,301297,Acute,3786
+2011,301304,Psychiatric,822
+2011,301317,Acute,18343
+2011,301337,Acute,2163
+2011,301337,Psychiatric,1323
+2011,301337,Chemical Dependency,945
+2011,301340,Acute,22959
+2011,301340,Psychiatric,2019
+2011,301340,Chemical Dependency,16
+2011,301342,Acute,16106
+2011,301342,Skilled Nursing/Intermediate Care,953
+2011,301342,Physical Rehabilitation,566
+2011,301357,Acute,373
+2011,301357,Skilled Nursing/Intermediate Care,27
+2011,301379,Acute,5617
+2011,301379,Psychiatric,382
+2011,304079,Physical Rehabilitation,1281
+2011,304113,Acute,1930
+2011,304159,Skilled Nursing/Intermediate Care,70
+2011,304159,Physical Rehabilitation,64
+2011,304460,Acute,3553
+2011,310791,Acute,4315
+2011,311000,Acute,20123
+2011,311000,Skilled Nursing/Intermediate Care,31
+2011,311000,Physical Rehabilitation,853
+2011,314024,Acute,24342
+2011,314029,Psychiatric,681
+2011,320859,Acute,410
+2011,320859,Skilled Nursing/Intermediate Care,59
+2011,320986,Acute,530
+2011,321016,Acute,214
+2011,321016,Skilled Nursing/Intermediate Care,23
+2011,330120,Chemical Dependency,1411
+2011,331152,Acute,9983
+2011,331152,Skilled Nursing/Intermediate Care,36
+2011,331152,Psychiatric,425
+2011,331152,Physical Rehabilitation,155
+2011,331164,Acute,19386
+2011,331164,Skilled Nursing/Intermediate Care,901
+2011,331164,Physical Rehabilitation,138
+2011,331168,Acute,17870
+2011,331168,Psychiatric,169
+2011,331168,Physical Rehabilitation,196
+2011,331194,Acute,11443
+2011,331194,Skilled Nursing/Intermediate Care,43
+2011,331194,Chemical Dependency,774
+2011,331216,Acute,10935
+2011,331226,Psychiatric,515
+2011,331226,Chemical Dependency,406
+2011,331288,Acute,1518
+2011,331293,Acute,10948
+2011,331312,Acute,25224
+2011,331326,Acute,3731
+2011,331326,Skilled Nursing/Intermediate Care,295
+2011,332172,Acute,428
+2011,334018,Acute,3596
+2011,334025,Acute,17150
+2011,334048,Acute,5322
+2011,334068,Acute,21267
+2011,334457,Psychiatric,894
+2011,334487,Acute,19544
+2011,334487,Psychiatric,4370
+2011,334589,Acute,896
+2011,340913,Acute,11314
+2011,340947,Acute,20337
+2011,340947,Skilled Nursing/Intermediate Care,593
+2011,340947,Physical Rehabilitation,435
+2011,340950,Acute,23011
+2011,340951,Acute,9463
+2011,340951,Skilled Nursing/Intermediate Care,578
+2011,341006,Acute,30186
+2011,341006,Physical Rehabilitation,303
+2011,341051,Acute,11868
+2011,341051,Skilled Nursing/Intermediate Care,603
+2011,341052,Acute,22843
+2011,342344,Acute,14934
+2011,342392,Psychiatric,5077
+2011,344011,Psychiatric,1841
+2011,344017,Psychiatric,2275
+2011,344021,Psychiatric,3862
+2011,344029,Acute,6550
+2011,344035,Acute,350
+2011,344114,Acute,1063
+2011,344114,Physical Rehabilitation,17
+2011,344170,Psychiatric,537
+2011,350784,Acute,2899
+2011,350784,Skilled Nursing/Intermediate Care,253
+2011,361105,Acute,2402
+2011,361110,Acute,285
+2011,361110,Skilled Nursing/Intermediate Care,6
+2011,361144,Acute,6423
+2011,361166,Acute,5733
+2011,361223,Acute,29226
+2011,361223,Chemical Dependency,737
+2011,361246,Acute,33315
+2011,361246,Chemical Dependency,2
+2011,361246,Physical Rehabilitation,595
+2011,361246,Unknown,3
+2011,361266,Acute,189
+2011,361266,Skilled Nursing/Intermediate Care,21
+2011,361274,Acute,1031
+2011,361308,Acute,13200
+2011,361308,Skilled Nursing/Intermediate Care,599
+2011,361308,Psychiatric,836
+2011,361318,Acute,17287
+2011,361323,Acute,11028
+2011,361323,Skilled Nursing/Intermediate Care,66
+2011,361323,Psychiatric,3296
+2011,361339,Acute,17954
+2011,361343,Acute,18432
+2011,361370,Acute,7170
+2011,361458,Acute,249
+2011,362041,Acute,3690
+2011,362041,Skilled Nursing/Intermediate Care,462
+2011,364014,Psychiatric,3730
+2011,364014,Chemical Dependency,618
+2011,364050,Psychiatric,5001
+2011,364121,Physical Rehabilitation,1094
+2011,364144,Acute,7592
+2011,364188,Acute,759
+2011,364231,Acute,23203
+2011,364231,Psychiatric,3701
+2011,370652,Acute,8167
+2011,370652,Physical Rehabilitation,158
+2011,370673,Acute,15856
+2011,370673,Skilled Nursing/Intermediate Care,120
+2011,370673,Physical Rehabilitation,68
+2011,370689,Acute,2842
+2011,370689,Skilled Nursing/Intermediate Care,336
+2011,370694,Acute,38143
+2011,370694,Physical Rehabilitation,441
+2011,370705,Acute,2938
+2011,370705,Skilled Nursing/Intermediate Care,411
+2011,370714,Acute,30098
+2011,370714,Skilled Nursing/Intermediate Care,146
+2011,370714,Psychiatric,1380
+2011,370714,Physical Rehabilitation,301
+2011,370721,Acute,657
+2011,370730,Acute,31559
+2011,370744,Acute,34815
+2011,370744,Psychiatric,1996
+2011,370745,Psychiatric,5545
+2011,370749,Psychiatric,1899
+2011,370749,Chemical Dependency,258
+2011,370755,Acute,21145
+2011,370755,Skilled Nursing/Intermediate Care,655
+2011,370755,Psychiatric,1414
+2011,370755,Physical Rehabilitation,437
+2011,370759,Acute,7331
+2011,370759,Psychiatric,3961
+2011,370759,Physical Rehabilitation,182
+2011,370771,Acute,20288
+2011,370771,Chemical Dependency,580
+2011,370780,Acute,17670
+2011,370780,Psychiatric,1114
+2011,370780,Physical Rehabilitation,207
+2011,370782,Acute,25996
+2011,370782,Psychiatric,1624
+2011,370787,Acute,589
+2011,370787,Psychiatric,1354
+2011,370875,Acute,17148
+2011,370875,Skilled Nursing/Intermediate Care,617
+2011,370977,Acute,7339
+2011,370977,Skilled Nursing/Intermediate Care,593
+2011,370977,Psychiatric,229
+2011,371256,Acute,11484
+2011,371394,Acute,10326
+2011,371394,Physical Rehabilitation,683
+2011,374024,Psychiatric,2364
+2011,374024,Chemical Dependency,473
+2011,374049,Chemical Dependency,247
+2011,374055,Skilled Nursing/Intermediate Care,43
+2011,374055,Psychiatric,2256
+2011,374084,Acute,932
+2011,374094,Acute,951
+2011,380842,Skilled Nursing/Intermediate Care,678
+2011,380842,Psychiatric,137
+2011,380857,Acute,16337
+2011,380865,Acute,135
+2011,380865,Skilled Nursing/Intermediate Care,872
+2011,380865,Physical Rehabilitation,46
+2011,380868,Psychiatric,686
+2011,380929,Acute,28615
+2011,380929,Skilled Nursing/Intermediate Care,1482
+2011,380929,Psychiatric,590
+2011,380929,Physical Rehabilitation,502
+2011,380939,Acute,13864
+2011,380939,Skilled Nursing/Intermediate Care,396
+2011,380939,Psychiatric,1937
+2011,380960,Acute,4776
+2011,380960,Psychiatric,1276
+2011,380960,Physical Rehabilitation,402
+2011,380964,Acute,4623
+2011,380964,Skilled Nursing/Intermediate Care,353
+2011,380965,Acute,4710
+2011,380965,Skilled Nursing/Intermediate Care,672
+2011,380965,Psychiatric,654
+2011,380965,Physical Rehabilitation,454
+2011,381154,Acute,29551
+2011,382715,Acute,1915
+2011,390846,Acute,9622
+2011,390923,Acute,8088
+2011,390923,Skilled Nursing/Intermediate Care,4
+2011,390923,Physical Rehabilitation,146
+2011,391010,Acute,10578
+2011,391042,Acute,18355
+2011,391042,Skilled Nursing/Intermediate Care,225
+2011,391056,Acute,4640
+2011,392232,Skilled Nursing/Intermediate Care,1
+2011,392232,Psychiatric,1402
+2011,392287,Acute,4559
+2011,394003,Psychiatric,1109
+2011,394009,Acute,11697
+2011,394009,Skilled Nursing/Intermediate Care,76
+2011,400466,Acute,2718
+2011,400466,Physical Rehabilitation,143
+2011,400480,Acute,5381
+2011,400524,Acute,6959
+2011,400548,Acute,6763
+2011,404046,Psychiatric,1194
+2011,410782,Acute,2662
+2011,410782,Skilled Nursing/Intermediate Care,416
+2011,410782,Psychiatric,752
+2011,410804,Acute,8367
+2011,410806,Acute,5955
+2011,410817,Acute,7726
+2011,410817,Skilled Nursing/Intermediate Care,32
+2011,410828,Skilled Nursing/Intermediate Care,68
+2011,410852,Acute,13595
+2011,410852,Skilled Nursing/Intermediate Care,476
+2011,410852,Psychiatric,957
+2011,410852,Chemical Dependency,394
+2011,410891,Acute,8218
+2011,410891,Psychiatric,328
+2011,414018,Acute,365
+2011,420483,Acute,1567
+2011,420483,Skilled Nursing/Intermediate Care,16
+2011,420491,Acute,2882
+2011,420491,Skilled Nursing/Intermediate Care,243
+2011,420493,Acute,12375
+2011,420493,Skilled Nursing/Intermediate Care,525
+2011,420514,Acute,18495
+2011,420514,Psychiatric,1172
+2011,420514,Physical Rehabilitation,647
+2011,420522,Acute,305
+2011,424002,Psychiatric,479
+2011,430705,Acute,10939
+2011,430705,Unknown,15
+2011,430763,Acute,21712
+2011,430763,Psychiatric,925
+2011,430763,Physical Rehabilitation,371
+2011,430779,Acute,18632
+2011,430779,Psychiatric,577
+2011,430779,Physical Rehabilitation,302
+2011,430837,Acute,15236
+2011,430837,Skilled Nursing/Intermediate Care,366
+2011,430883,Acute,23773
+2011,430883,Psychiatric,1327
+2011,430883,Physical Rehabilitation,543
+2011,430905,Acute,24191
+2011,430905,Psychiatric,881
+2011,431506,Acute,13412
+2011,434040,Acute,16155
+2011,434051,Skilled Nursing/Intermediate Care,17
+2011,434138,Acute,4180
+2011,434153,Acute,26192
+2011,434218,Psychiatric,1324
+2011,434220,Psychiatric,407
+2011,440755,Acute,11146
+2011,440755,Skilled Nursing/Intermediate Care,756
+2011,440755,Psychiatric,945
+2011,440755,Physical Rehabilitation,418
+2011,444012,Acute,2600
+2011,444012,Unknown,1
+2011,444013,Acute,6274
+2011,450936,Acute,473
+2011,450936,Skilled Nursing/Intermediate Care,112
+2011,450940,Acute,8222
+2011,450949,Acute,15431
+2011,454012,Acute,607
+2012,10846,Acute,12137
+2011,454012,Skilled Nursing/Intermediate Care,524
+2011,454013,Acute,256
+2011,470871,Acute,1306
+2011,470871,Skilled Nursing/Intermediate Care,26
+2011,474007,Acute,1728
+2011,480989,Acute,12128
+2011,480989,Physical Rehabilitation,864
+2011,481015,Psychiatric,2236
+2011,481094,Acute,5848
+2011,481357,Acute,7079
+2011,484001,Acute,2407
+2011,484028,Psychiatric,4
+2011,484044,Acute,3330
+2011,490919,Acute,7003
+2011,490964,Acute,891
+2011,490964,Skilled Nursing/Intermediate Care,164
+2011,491001,Acute,3304
+2011,491064,Acute,12423
+2011,491064,Physical Rehabilitation,272
+2011,491076,Acute,1819
+2011,491076,Skilled Nursing/Intermediate Care,415
+2011,491338,Acute,1196
+2011,494019,Acute,10581
+2011,500852,Acute,20344
+2011,500852,Psychiatric,4270
+2011,500852,Chemical Dependency,11
+2011,500867,Acute,11243
+2011,500867,Skilled Nursing/Intermediate Care,593
+2011,500939,Acute,21829
+2011,500967,Acute,1581
+2011,500967,Skilled Nursing/Intermediate Care,222
+2011,504038,Acute,862
+2011,514001,Psychiatric,329
+2011,514030,Acute,649
+2011,514033,Psychiatric,572
+2011,521041,Acute,3970
+2011,521041,Skilled Nursing/Intermediate Care,5
+2011,531059,Acute,449
+2011,531059,Skilled Nursing/Intermediate Care,61
+2011,540734,Acute,24109
+2011,540734,Skilled Nursing/Intermediate Care,283
+2011,540734,Psychiatric,1765
+2011,540734,Physical Rehabilitation,489
+2011,540798,Acute,9276
+2011,540798,Skilled Nursing/Intermediate Care,24
+2011,540816,Acute,6912
+2011,551061,Skilled Nursing/Intermediate Care,60
+2011,554011,Acute,5300
+2011,554011,Skilled Nursing/Intermediate Care,278
+2011,560473,Acute,15146
+2011,560481,Acute,11211
+2011,560481,Psychiatric,2490
+2011,560492,Acute,14564
+2011,560492,Skilled Nursing/Intermediate Care,776
+2011,560492,Physical Rehabilitation,207
+2011,560492,Unknown,6
+2011,560501,Acute,683
+2011,560501,Skilled Nursing/Intermediate Care,262
+2011,560508,Acute,3746
+2011,560508,Skilled Nursing/Intermediate Care,20
+2011,560525,Acute,6159
+2011,560529,Acute,14263
+2011,560529,Physical Rehabilitation,373
+2011,560838,Psychiatric,205
+2011,564121,Acute,1408
+2011,571086,Acute,4127
+2011,571086,Psychiatric,930
+2011,574010,Acute,4776
+2011,580996,Acute,14451
+2012,10735,Acute,2791
+2012,10735,Skilled Nursing/Intermediate Care,206
+2012,10739,Acute,23296
+2012,10776,Acute,10099
+2012,10776,Physical Rehabilitation,92
+2012,10782,Chemical Dependency,158
+2012,10805,Acute,9919
+2012,10805,Psychiatric,97
+2012,10844,Skilled Nursing/Intermediate Care,21
+2012,10844,Psychiatric,2243
+2012,10844,Physical Rehabilitation,755
+2012,10846,Skilled Nursing/Intermediate Care,190
+2012,10846,Psychiatric,2986
+2012,10846,Physical Rehabilitation,465
+2012,10856,Acute,19995
+2012,10858,Acute,16994
+2012,10887,Acute,476
+2012,10937,Acute,12240
+2012,10937,Skilled Nursing/Intermediate Care,778
+2012,10967,Acute,7345
+2012,10987,Acute,14056
+2012,13619,Acute,3562
+2012,13687,Chemical Dependency,539
+2012,14034,Psychiatric,3952
+2012,14050,Acute,8639
+2012,14050,Skilled Nursing/Intermediate Care,540
+2012,14050,Psychiatric,198
+2012,14207,Psychiatric,1199
+2012,14226,Psychiatric,546
+2012,34002,Acute,2716
+2012,40802,Acute,693
+2012,40802,Skilled Nursing/Intermediate Care,52
+2012,40875,Acute,6400
+2012,40937,Acute,10085
+2012,40937,Skilled Nursing/Intermediate Care,592
+2012,40962,Acute,14868
+2012,40962,Psychiatric,601
+2012,40962,Physical Rehabilitation,501
+2012,44006,Psychiatric,683
+2012,50932,Acute,1272
+2012,50932,Skilled Nursing/Intermediate Care,7
+2012,60870,Acute,1054
+2012,60870,Skilled Nursing/Intermediate Care,101
+2012,70904,Acute,6066
+2012,70924,Acute,9514
+2012,70924,Psychiatric,777
+2012,70934,Acute,9153
+2012,70988,Acute,19432
+2012,70988,Physical Rehabilitation,628
+2012,70990,Acute,18490
+2012,71018,Acute,9579
+2012,74017,Acute,5100
+2012,74039,Psychiatric,2334
+2012,74039,Chemical Dependency,674
+2012,74097,Acute,9215
+2012,84001,Acute,2532
+2012,90793,Acute,2628
+2012,90793,Skilled Nursing/Intermediate Care,64
+2012,90933,Acute,5533
+2012,90933,Skilled Nursing/Intermediate Care,3
+2012,94002,Psychiatric,398
+2012,100005,Acute,13073
+2012,100005,Physical Rehabilitation,3
+2012,100697,Acute,416
+2012,100697,Skilled Nursing/Intermediate Care,76
+2012,100717,Acute,39471
+2012,100717,Skilled Nursing/Intermediate Care,405
+2012,100717,Psychiatric,3339
+2012,100717,Physical Rehabilitation,593
+2012,100797,Acute,3165
+2012,100899,Acute,27875
+2012,104023,Acute,1522
+2012,104047,Acute,2001
+2012,104062,Acute,8083
+2012,104089,Psychiatric,591
+2012,105029,Acute,3044
+2012,110889,Acute,318
+2012,110889,Skilled Nursing/Intermediate Care,20
+2012,121002,Acute,2536
+2012,121002,Skilled Nursing/Intermediate Care,6
+2012,121031,Acute,26
+2012,121031,Skilled Nursing/Intermediate Care,12
+2012,121051,Acute,1932
+2012,121051,Skilled Nursing/Intermediate Care,59
+2012,121080,Acute,6727
+2012,121080,Physical Rehabilitation,167
+2012,124004,Psychiatric,684
+2012,130699,Acute,7780
+2012,130760,Acute,7525
+2012,141273,Acute,984
+2012,141273,Skilled Nursing/Intermediate Care,2
+2012,141338,Acute,75
+2012,141338,Skilled Nursing/Intermediate Care,32
+2012,150706,Acute,3856
+2012,150706,Skilled Nursing/Intermediate Care,39
+2012,150722,Acute,20333
+2012,150736,Acute,12749
+2012,150736,Psychiatric,759
+2012,150737,Acute,595
+2012,150737,Skilled Nursing/Intermediate Care,184
+2012,150761,Acute,13752
+2012,150775,Acute,800
+2012,150775,Psychiatric,1862
+2012,150775,Chemical Dependency,237
+2012,150782,Acute,2396
+2012,150782,Skilled Nursing/Intermediate Care,19
+2012,150788,Acute,21967
+2012,150808,Acute,125
+2012,154022,Physical Rehabilitation,1605
+2012,154101,Acute,3879
+2012,154147,Psychiatric,242
+2012,154160,Psychiatric,479
+2012,160702,Acute,480
+2012,160787,Acute,4109
+2012,164029,Acute,11790
+2012,171049,Acute,1595
+2012,171049,Skilled Nursing/Intermediate Care,35
+2012,171395,Acute,2321
+2012,171395,Skilled Nursing/Intermediate Care,74
+2012,184008,Acute,1502
+2012,190017,Acute,3437
+2012,190017,Skilled Nursing/Intermediate Care,12
+2012,190017,Physical Rehabilitation,230
+2012,190020,Psychiatric,5059
+2012,190034,Acute,26820
+2012,190034,Psychiatric,577
+2012,190045,Acute,17
+2012,190045,Skilled Nursing/Intermediate Care,2
+2012,190049,Acute,854
+2012,190052,Acute,771
+2012,190053,Acute,13068
+2012,190053,Physical Rehabilitation,440
+2012,190066,Acute,4902
+2012,190066,Psychiatric,1393
+2012,190081,Acute,10216
+2012,190110,Acute,6021
+2012,190110,Skilled Nursing/Intermediate Care,82
+2012,190110,Psychiatric,1719
+2012,190110,Chemical Dependency,1003
+2012,190110,Physical Rehabilitation,413
+2012,190125,Acute,20184
+2012,190125,Skilled Nursing/Intermediate Care,401
+2012,190137,Physical Rehabilitation,1308
+2012,190148,Acute,19304
+2012,190148,Skilled Nursing/Intermediate Care,23
+2012,190148,Physical Rehabilitation,1
+2012,190150,Psychiatric,980
+2012,190159,Acute,2882
+2012,190163,Psychiatric,5270
+2012,190170,Acute,13019
+2012,190170,Physical Rehabilitation,214
+2012,190176,Acute,6102
+2012,190184,Psychiatric,6919
+2012,190196,Acute,1093
+2012,190197,Acute,3852
+2012,190198,Acute,5531
+2012,190198,Skilled Nursing/Intermediate Care,73
+2012,190200,Acute,11358
+2012,190200,Skilled Nursing/Intermediate Care,81
+2012,190200,Psychiatric,569
+2012,190232,Psychiatric,5563
+2012,190232,Chemical Dependency,32
+2012,190240,Acute,8193
+2012,190240,Physical Rehabilitation,3
+2012,190243,Acute,12598
+2012,190256,Acute,4721
+2012,190256,Skilled Nursing/Intermediate Care,59
+2012,190280,Acute,1528
+2012,190280,Skilled Nursing/Intermediate Care,7
+2012,190280,Psychiatric,256
+2012,190298,Acute,5943
+2012,190305,Acute,811
+2012,190307,Acute,8892
+2012,190307,Physical Rehabilitation,223
+2012,190315,Acute,16683
+2012,190315,Physical Rehabilitation,496
+2012,190317,Acute,1
+2012,190317,Psychiatric,1009
+2012,190323,Acute,19370
+2012,190323,Skilled Nursing/Intermediate Care,935
+2012,190323,Psychiatric,2050
+2012,190323,Physical Rehabilitation,630
+2012,190328,Acute,1439
+2012,190328,Psychiatric,582
+2012,190352,Acute,4404
+2012,190352,Skilled Nursing/Intermediate Care,9
+2012,190380,Acute,3194
+2012,190382,Acute,17353
+2012,190382,Skilled Nursing/Intermediate Care,170
+2012,190382,Physical Rehabilitation,443
+2012,190385,Acute,19309
+2012,190385,Skilled Nursing/Intermediate Care,52
+2012,190385,Physical Rehabilitation,188
+2012,190392,Acute,16675
+2012,190400,Acute,27129
+2012,190400,Psychiatric,1249
+2012,190400,Chemical Dependency,499
+2012,190400,Physical Rehabilitation,328
+2012,190410,Psychiatric,3310
+2012,190410,Unknown,1
+2012,190413,Acute,7495
+2012,190413,Skilled Nursing/Intermediate Care,784
+2012,190413,Psychiatric,1702
+2012,190413,Physical Rehabilitation,1
+2012,190422,Acute,25964
+2012,190422,Skilled Nursing/Intermediate Care,1369
+2012,190429,Acute,25915
+2012,190429,Psychiatric,2682
+2012,190431,Acute,15405
+2012,190432,Acute,13587
+2012,190434,Acute,13510
+2012,190449,Acute,2253
+2012,190462,Psychiatric,2219
+2012,190462,Chemical Dependency,500
+2012,190468,Acute,1541
+2012,190470,Acute,21114
+2012,190470,Skilled Nursing/Intermediate Care,2230
+2012,190475,Acute,2694
+2012,190475,Psychiatric,1459
+2012,190500,Acute,4387
+2012,190517,Acute,16394
+2012,190521,Acute,8169
+2012,190521,Skilled Nursing/Intermediate Care,145
+2012,190522,Acute,12129
+2012,190522,Physical Rehabilitation,190
+2012,190524,Acute,3929
+2012,190524,Psychiatric,3471
+2012,190525,Acute,20739
+2012,190525,Physical Rehabilitation,618
+2012,190529,Acute,16924
+2012,190529,Skilled Nursing/Intermediate Care,1071
+2012,190529,Physical Rehabilitation,495
+2012,190534,Acute,5037
+2012,190541,Acute,822
+2012,190547,Acute,6496
+2012,190552,Acute,219
+2012,190552,Skilled Nursing/Intermediate Care,54
+2012,190555,Acute,55109
+2012,190555,Psychiatric,82
+2012,190555,Physical Rehabilitation,760
+2012,190568,Acute,15885
+2012,190568,Psychiatric,1821
+2012,190568,Physical Rehabilitation,278
+2012,190570,Acute,2534
+2012,190587,Acute,4766
+2012,190587,Psychiatric,3530
+2012,190630,Acute,27200
+2012,190631,Acute,20641
+2012,190631,Skilled Nursing/Intermediate Care,637
+2012,190631,Physical Rehabilitation,197
+2012,190636,Acute,20124
+2012,190636,Physical Rehabilitation,208
+2012,190661,Acute,1923
+2012,190661,Psychiatric,874
+2012,190673,Acute,4701
+2012,190680,Acute,6245
+2012,190680,Skilled Nursing/Intermediate Care,869
+2012,190680,Psychiatric,572
+2012,190680,Chemical Dependency,161
+2012,190680,Physical Rehabilitation,282
+2012,190681,Acute,198
+2012,190687,Acute,16164
+2012,190696,Acute,3561
+2012,190696,Skilled Nursing/Intermediate Care,67
+2012,190696,Psychiatric,1811
+2012,190708,Acute,3692
+2012,190708,Psychiatric,393
+2012,190712,Acute,462
+2012,190754,Acute,21901
+2012,190754,Skilled Nursing/Intermediate Care,402
+2012,190754,Psychiatric,1687
+2012,190756,Acute,14336
+2012,190758,Acute,19754
+2012,190758,Physical Rehabilitation,240
+2012,190762,Acute,8524
+2012,190762,Skilled Nursing/Intermediate Care,621
+2012,190762,Physical Rehabilitation,442
+2012,190766,Acute,3631
+2012,190782,Psychiatric,2411
+2012,190784,Acute,2167
+2012,190784,Skilled Nursing/Intermediate Care,8
+2012,190796,Acute,24613
+2012,190796,Physical Rehabilitation,199
+2012,190812,Acute,19680
+2012,190812,Physical Rehabilitation,290
+2012,190814,Psychiatric,3148
+2012,190818,Acute,5386
+2012,190818,Skilled Nursing/Intermediate Care,692
+2012,190818,Psychiatric,611
+2012,190854,Acute,1390
+2012,190854,Psychiatric,4123
+2012,190857,Acute,141
+2012,190857,Skilled Nursing/Intermediate Care,21
+2012,190859,Acute,8833
+2012,190878,Acute,21424
+2012,190878,Skilled Nursing/Intermediate Care,355
+2012,190878,Psychiatric,1835
+2012,190878,Physical Rehabilitation,331
+2012,190883,Acute,10066
+2012,190883,Skilled Nursing/Intermediate Care,25
+2012,190930,Psychiatric,2063
+2012,190949,Acute,11739
+2012,190949,Psychiatric,1109
+2012,190949,Physical Rehabilitation,148
+2012,191216,Acute,3
+2012,191225,Chemical Dependency,639
+2012,191227,Acute,19964
+2012,191227,Psychiatric,791
+2012,191228,Acute,31933
+2012,191228,Psychiatric,1086
+2012,191231,Acute,13395
+2012,191231,Psychiatric,821
+2012,191306,Acute,2347
+2012,191306,Physical Rehabilitation,1513
+2012,191450,Acute,12090
+2012,194010,Chemical Dependency,1221
+2012,194219,Acute,9878
+2012,194219,Psychiatric,143
+2012,194219,Physical Rehabilitation,1
+2012,194967,Psychiatric,87
+2012,194981,Psychiatric,110
+2012,196035,Acute,15511
+2012,196168,Acute,20693
+2012,196403,Acute,22915
+2012,196404,Skilled Nursing/Intermediate Care,293
+2012,196404,Psychiatric,181
+2012,196405,Acute,8199
+2012,201281,Acute,6299
+2012,204019,Acute,13625
+2012,204019,Physical Rehabilitation,66
+2012,210992,Acute,4849
+2012,210993,Acute,478
+2012,211006,Acute,10262
+2012,211006,Psychiatric,665
+2012,214034,Acute,1599
+2012,220733,Acute,183
+2012,220733,Skilled Nursing/Intermediate Care,28
+2012,230949,Acute,1267
+2012,230949,Skilled Nursing/Intermediate Care,79
+2012,231013,Acute,1201
+2012,231013,Skilled Nursing/Intermediate Care,194
+2012,231396,Acute,4936
+2012,240924,Acute,2078
+2012,240942,Acute,13161
+2012,244027,Psychiatric,560
+2012,250955,Acute,18
+2012,250955,Skilled Nursing/Intermediate Care,20
+2012,250956,Acute,183
+2012,250956,Skilled Nursing/Intermediate Care,79
+2012,260011,Acute,719
+2012,270744,Acute,11644
+2012,270744,Psychiatric,676
+2012,270777,Acute,1840
+2012,270777,Skilled Nursing/Intermediate Care,146
+2012,270875,Acute,11747
+2012,274043,Acute,9649
+2012,274043,Psychiatric,718
+2012,274043,Physical Rehabilitation,392
+2012,281047,Acute,8337
+2012,281047,Physical Rehabilitation,293
+2012,281078,Acute,5164
+2012,281078,Psychiatric,736
+2012,291023,Acute,5511
+2012,291023,Skilled Nursing/Intermediate Care,359
+2012,291053,Acute,1981
+2012,291053,Skilled Nursing/Intermediate Care,38
+2012,300032,Acute,11095
+2012,300225,Acute,14564
+2012,301097,Acute,1153
+2012,301097,Skilled Nursing/Intermediate Care,29
+2012,301097,Psychiatric,395
+2012,301098,Acute,14616
+2012,301127,Acute,474
+2012,301127,Skilled Nursing/Intermediate Care,291
+2012,301132,Acute,27298
+2012,301140,Acute,1590
+2012,301140,Skilled Nursing/Intermediate Care,20
+2012,301140,Psychiatric,266
+2012,301140,Chemical Dependency,384
+2012,301140,Physical Rehabilitation,1
+2012,301155,Acute,601
+2012,301155,Psychiatric,2504
+2012,301175,Acute,20463
+2012,301188,Acute,4906
+2012,301188,Psychiatric,3011
+2012,301205,Acute,30178
+2012,301205,Chemical Dependency,491
+2012,301209,Acute,3109
+2012,301209,Psychiatric,270
+2012,301234,Acute,3312
+2012,301234,Psychiatric,287
+2012,301248,Acute,10811
+2012,301248,Psychiatric,395
+2012,301258,Acute,4961
+2012,301258,Skilled Nursing/Intermediate Care,41
+2012,301258,Psychiatric,412
+2012,301262,Acute,18903
+2012,301262,Physical Rehabilitation,441
+2012,301279,Acute,17720
+2012,301279,Psychiatric,1704
+2012,301279,Physical Rehabilitation,192
+2012,301283,Acute,7973
+2012,301297,Acute,3630
+2012,301304,Psychiatric,732
+2012,301317,Acute,18085
+2012,301337,Acute,2148
+2012,301337,Psychiatric,1510
+2012,301337,Chemical Dependency,849
+2012,301340,Acute,23229
+2012,301340,Psychiatric,2013
+2012,301340,Chemical Dependency,41
+2012,301342,Acute,15689
+2012,301342,Skilled Nursing/Intermediate Care,855
+2012,301342,Physical Rehabilitation,635
+2012,301357,Acute,421
+2012,301357,Skilled Nursing/Intermediate Care,28
+2012,301379,Acute,5486
+2012,301379,Psychiatric,295
+2012,301380,Acute,1049
+2012,301566,Acute,9755
+2012,304079,Physical Rehabilitation,1303
+2012,304113,Acute,1841
+2012,304159,Skilled Nursing/Intermediate Care,66
+2012,304159,Physical Rehabilitation,51
+2012,304460,Acute,3899
+2012,310791,Acute,3902
+2012,311000,Acute,21360
+2012,311000,Skilled Nursing/Intermediate Care,14
+2012,311000,Physical Rehabilitation,996
+2012,314024,Acute,22466
+2012,314029,Psychiatric,679
+2012,320859,Acute,299
+2012,320859,Skilled Nursing/Intermediate Care,51
+2012,320986,Acute,444
+2012,321016,Acute,176
+2012,321016,Skilled Nursing/Intermediate Care,32
+2012,330120,Chemical Dependency,1190
+2012,331152,Acute,9437
+2012,331152,Skilled Nursing/Intermediate Care,41
+2012,331152,Psychiatric,326
+2012,331152,Physical Rehabilitation,14
+2012,331164,Acute,20282
+2012,331164,Skilled Nursing/Intermediate Care,828
+2012,331164,Physical Rehabilitation,112
+2012,331168,Acute,18251
+2012,331168,Psychiatric,213
+2012,331168,Physical Rehabilitation,523
+2012,331194,Acute,10869
+2012,331194,Skilled Nursing/Intermediate Care,71
+2012,331194,Chemical Dependency,842
+2012,331216,Acute,11019
+2012,331226,Psychiatric,468
+2012,331226,Chemical Dependency,407
+2012,331288,Acute,1385
+2012,331293,Acute,11838
+2012,331312,Acute,24904
+2012,331326,Acute,4508
+2012,331326,Skilled Nursing/Intermediate Care,274
+2012,332172,Acute,469
+2012,334018,Acute,3392
+2012,334025,Acute,15081
+2012,334048,Acute,4876
+2012,334068,Acute,19566
+2012,334457,Psychiatric,1015
+2012,334487,Acute,19818
+2012,334487,Psychiatric,4428
+2012,334487,Unknown,1
+2012,334589,Acute,3712
+2012,340913,Acute,10012
+2012,340947,Acute,18297
+2012,340947,Skilled Nursing/Intermediate Care,677
+2012,340947,Physical Rehabilitation,486
+2012,340950,Acute,22707
+2012,340951,Acute,10817
+2012,340951,Skilled Nursing/Intermediate Care,540
+2012,341006,Acute,31240
+2012,341006,Physical Rehabilitation,300
+2012,341051,Acute,12099
+2012,341051,Skilled Nursing/Intermediate Care,669
+2012,341052,Acute,22980
+2012,342344,Acute,14150
+2012,342392,Psychiatric,5733
+2012,344011,Psychiatric,1363
+2012,344017,Psychiatric,2661
+2012,344021,Psychiatric,4156
+2012,344029,Acute,6638
+2012,344035,Acute,400
+2012,344114,Acute,1145
+2012,344114,Physical Rehabilitation,15
+2012,344170,Psychiatric,565
+2012,344188,Psychiatric,225
+2012,350784,Acute,2563
+2012,350784,Skilled Nursing/Intermediate Care,259
+2012,361105,Acute,2107
+2012,361110,Acute,220
+2012,361110,Skilled Nursing/Intermediate Care,7
+2012,361144,Acute,6006
+2012,361166,Acute,4916
+2012,361223,Acute,30984
+2012,361223,Chemical Dependency,725
+2012,361246,Acute,33728
+2012,361246,Physical Rehabilitation,607
+2012,361266,Acute,190
+2012,361266,Skilled Nursing/Intermediate Care,18
+2012,361274,Acute,1033
+2012,361308,Acute,13152
+2012,361308,Skilled Nursing/Intermediate Care,547
+2012,361308,Psychiatric,897
+2012,361318,Acute,16441
+2012,361323,Acute,10105
+2012,361323,Skilled Nursing/Intermediate Care,79
+2012,361323,Psychiatric,3610
+2012,361339,Acute,17993
+2012,361343,Acute,19004
+2012,361370,Acute,6586
+2012,361458,Acute,268
+2012,362041,Acute,3809
+2012,362041,Skilled Nursing/Intermediate Care,418
+2012,364014,Psychiatric,3717
+2012,364014,Chemical Dependency,610
+2012,364050,Psychiatric,5477
+2012,364121,Physical Rehabilitation,1024
+2012,364144,Acute,9131
+2012,364188,Acute,750
+2012,364231,Acute,23395
+2012,364231,Psychiatric,3206
+2012,364430,Acute,537
+2012,370652,Acute,6852
+2012,370652,Physical Rehabilitation,165
+2012,370673,Acute,16472
+2012,370673,Skilled Nursing/Intermediate Care,96
+2012,370673,Psychiatric,304
+2012,370673,Physical Rehabilitation,55
+2012,370689,Acute,2624
+2012,370689,Skilled Nursing/Intermediate Care,292
+2012,370694,Acute,18975
+2012,370694,Physical Rehabilitation,413
+2012,370695,Acute,18997
+2012,370705,Acute,2667
+2012,370705,Skilled Nursing/Intermediate Care,385
+2012,370714,Acute,30646
+2012,370714,Skilled Nursing/Intermediate Care,165
+2012,370714,Psychiatric,1454
+2012,370714,Physical Rehabilitation,308
+2012,370721,Acute,707
+2012,370730,Acute,30862
+2012,370744,Acute,34674
+2012,370744,Psychiatric,1931
+2012,370745,Psychiatric,5863
+2012,370749,Psychiatric,1952
+2012,370749,Chemical Dependency,306
+2012,370755,Acute,21194
+2012,370755,Skilled Nursing/Intermediate Care,682
+2012,370755,Psychiatric,1314
+2012,370755,Physical Rehabilitation,441
+2012,370759,Acute,7260
+2012,370759,Psychiatric,4593
+2012,370759,Physical Rehabilitation,177
+2012,370759,Unknown,1
+2012,370771,Acute,20172
+2012,370771,Chemical Dependency,560
+2012,370780,Acute,17509
+2012,370780,Psychiatric,1078
+2012,370780,Physical Rehabilitation,216
+2012,370782,Acute,27124
+2012,370782,Psychiatric,1546
+2012,370787,Acute,581
+2012,370787,Psychiatric,1073
+2012,370875,Acute,17160
+2012,370875,Skilled Nursing/Intermediate Care,520
+2012,370977,Acute,6857
+2012,370977,Skilled Nursing/Intermediate Care,596
+2012,370977,Psychiatric,272
+2012,371256,Acute,10391
+2012,371394,Acute,10233
+2012,371394,Physical Rehabilitation,613
+2012,374024,Psychiatric,2468
+2012,374024,Chemical Dependency,414
+2012,374049,Chemical Dependency,261
+2012,374055,Skilled Nursing/Intermediate Care,49
+2012,374055,Psychiatric,2732
+2012,374084,Acute,842
+2012,374094,Acute,1079
+2012,380842,Skilled Nursing/Intermediate Care,814
+2012,380842,Psychiatric,146
+2012,380857,Acute,15480
+2012,380865,Acute,148
+2012,380865,Skilled Nursing/Intermediate Care,953
+2012,380865,Physical Rehabilitation,38
+2012,380868,Psychiatric,773
+2012,380929,Acute,25143
+2012,380929,Skilled Nursing/Intermediate Care,866
+2012,380929,Psychiatric,697
+2012,380929,Physical Rehabilitation,1
+2012,380933,Acute,3241
+2012,380933,Skilled Nursing/Intermediate Care,521
+2012,380933,Physical Rehabilitation,506
+2012,380939,Acute,14599
+2012,380939,Skilled Nursing/Intermediate Care,464
+2012,380939,Psychiatric,2018
+2012,380960,Acute,4683
+2012,380960,Psychiatric,1246
+2012,380960,Physical Rehabilitation,445
+2012,380964,Acute,4612
+2012,380964,Skilled Nursing/Intermediate Care,355
+2012,380965,Acute,4811
+2012,380965,Skilled Nursing/Intermediate Care,581
+2012,380965,Psychiatric,729
+2012,380965,Physical Rehabilitation,416
+2012,381154,Acute,29358
+2012,382715,Acute,1811
+2012,390846,Acute,9350
+2012,390923,Acute,7018
+2012,390923,Physical Rehabilitation,146
+2012,391010,Acute,10301
+2012,391042,Acute,17813
+2012,391056,Acute,4411
+2012,392232,Psychiatric,1763
+2012,392287,Acute,4604
+2012,394003,Psychiatric,634
+2012,394009,Acute,10989
+2012,394009,Skilled Nursing/Intermediate Care,80
+2012,400466,Acute,2434
+2012,400466,Physical Rehabilitation,351
+2012,400480,Acute,4812
+2012,400524,Acute,6678
+2012,400548,Acute,5814
+2012,404046,Psychiatric,1269
+2012,410782,Acute,2729
+2012,410782,Skilled Nursing/Intermediate Care,404
+2012,410782,Psychiatric,675
+2012,410804,Acute,8903
+2012,410806,Acute,5677
+2012,410817,Acute,7440
+2012,410817,Skilled Nursing/Intermediate Care,34
+2012,410828,Skilled Nursing/Intermediate Care,118
+2012,410852,Acute,13844
+2012,410852,Skilled Nursing/Intermediate Care,356
+2012,410852,Psychiatric,1037
+2012,410852,Chemical Dependency,462
+2012,410891,Acute,8017
+2012,414018,Acute,301
+2012,420483,Acute,1517
+2012,420483,Skilled Nursing/Intermediate Care,9
+2012,420491,Acute,2913
+2012,420491,Skilled Nursing/Intermediate Care,259
+2012,420493,Acute,12735
+2012,420493,Skilled Nursing/Intermediate Care,573
+2012,420514,Acute,18413
+2012,420514,Psychiatric,1214
+2012,420514,Physical Rehabilitation,676
+2012,420522,Acute,230
+2012,424002,Psychiatric,458
+2012,430705,Acute,11473
+2012,430763,Acute,22327
+2012,430763,Psychiatric,859
+2012,430763,Physical Rehabilitation,511
+2012,430779,Acute,18290
+2012,430779,Psychiatric,668
+2012,430779,Physical Rehabilitation,304
+2012,430837,Acute,14741
+2012,430837,Skilled Nursing/Intermediate Care,20
+2012,430883,Acute,23711
+2012,430883,Psychiatric,1526
+2012,430883,Physical Rehabilitation,615
+2012,430905,Acute,24435
+2012,430905,Psychiatric,794
+2012,431506,Acute,13116
+2012,434040,Acute,16189
+2012,434051,Skilled Nursing/Intermediate Care,22
+2012,434138,Acute,3737
+2012,434153,Acute,25671
+2012,434218,Psychiatric,1321
+2012,434220,Psychiatric,486
+2012,440755,Acute,11249
+2012,440755,Skilled Nursing/Intermediate Care,745
+2012,440755,Psychiatric,883
+2012,440755,Physical Rehabilitation,454
+2012,444012,Acute,2499
+2012,444013,Acute,5861
+2012,450936,Acute,442
+2012,450936,Skilled Nursing/Intermediate Care,93
+2012,450940,Acute,7262
+2012,450949,Acute,14831
+2012,454012,Acute,635
+2013,10858,Acute,15203
+2012,454012,Skilled Nursing/Intermediate Care,579
+2012,454013,Acute,243
+2012,470871,Acute,1261
+2012,470871,Skilled Nursing/Intermediate Care,10
+2012,474007,Acute,1805
+2012,480989,Acute,11304
+2012,480989,Physical Rehabilitation,966
+2012,481015,Psychiatric,2376
+2012,481094,Acute,5609
+2012,481357,Acute,9926
+2012,484044,Acute,3721
+2012,490919,Acute,7519
+2012,490964,Acute,838
+2012,490964,Skilled Nursing/Intermediate Care,164
+2012,491001,Acute,3260
+2012,491064,Acute,12269
+2012,491064,Physical Rehabilitation,291
+2012,491076,Acute,1509
+2012,491076,Skilled Nursing/Intermediate Care,408
+2012,491338,Acute,1103
+2012,494019,Acute,10275
+2012,500852,Acute,21609
+2012,500852,Psychiatric,4561
+2012,500852,Chemical Dependency,17
+2012,500867,Acute,10330
+2012,500867,Skilled Nursing/Intermediate Care,480
+2012,500939,Acute,20331
+2012,500967,Acute,1520
+2012,500967,Skilled Nursing/Intermediate Care,282
+2012,504038,Acute,790
+2012,514001,Psychiatric,274
+2012,514030,Acute,526
+2012,514033,Psychiatric,471
+2012,521041,Acute,3711
+2012,521041,Skilled Nursing/Intermediate Care,7
+2012,531059,Acute,366
+2012,531059,Skilled Nursing/Intermediate Care,46
+2012,540734,Acute,23385
+2012,540734,Skilled Nursing/Intermediate Care,442
+2012,540734,Psychiatric,1864
+2012,540734,Physical Rehabilitation,479
+2012,540798,Acute,8643
+2012,540798,Skilled Nursing/Intermediate Care,22
+2012,540816,Acute,6160
+2012,554011,Acute,5024
+2012,554011,Skilled Nursing/Intermediate Care,264
+2012,560203,Psychiatric,3437
+2012,560473,Acute,14694
+2012,560481,Acute,11371
+2012,560481,Psychiatric,2068
+2012,560492,Acute,14619
+2012,560492,Skilled Nursing/Intermediate Care,723
+2012,560492,Physical Rehabilitation,203
+2012,560492,Unknown,3
+2012,560501,Acute,729
+2012,560501,Skilled Nursing/Intermediate Care,255
+2012,560508,Acute,3462
+2012,560508,Skilled Nursing/Intermediate Care,31
+2012,560525,Acute,6383
+2012,560529,Acute,13467
+2012,560529,Physical Rehabilitation,354
+2012,560838,Psychiatric,221
+2012,564121,Acute,1176
+2012,571086,Acute,3815
+2012,571086,Psychiatric,931
+2012,574010,Acute,4696
+2012,580996,Acute,14668
+2013,10735,Acute,2730
+2013,10735,Skilled Nursing/Intermediate Care,285
+2013,10739,Acute,22645
+2013,10776,Acute,9886
+2013,10776,Physical Rehabilitation,78
+2013,10782,Chemical Dependency,111
+2013,10844,Psychiatric,2085
+2013,10844,Physical Rehabilitation,795
+2013,10846,Acute,11567
+2013,10846,Skilled Nursing/Intermediate Care,146
+2013,10846,Psychiatric,2916
+2013,10846,Physical Rehabilitation,402
+2013,10856,Acute,19228
+2013,10887,Acute,515
+2013,10937,Acute,11352
+2013,10937,Skilled Nursing/Intermediate Care,694
+2013,10967,Acute,6926
+2013,10987,Acute,13153
+2013,13619,Acute,2932
+2013,13687,Chemical Dependency,525
+2013,14034,Psychiatric,3986
+2013,14050,Acute,8646
+2013,14050,Skilled Nursing/Intermediate Care,517
+2013,14050,Psychiatric,201
+2013,14207,Psychiatric,1314
+2013,14226,Psychiatric,584
+2013,14233,Acute,9864
+2013,34002,Acute,2685
+2013,40802,Acute,637
+2013,40802,Skilled Nursing/Intermediate Care,69
+2013,40875,Acute,5997
+2013,40937,Acute,10803
+2013,40937,Skilled Nursing/Intermediate Care,482
+2013,40962,Acute,14988
+2013,40962,Psychiatric,715
+2013,40962,Physical Rehabilitation,518
+2013,44006,Psychiatric,578
+2013,50932,Acute,1225
+2013,60870,Acute,950
+2013,60870,Skilled Nursing/Intermediate Care,83
+2013,70904,Acute,5417
+2013,70924,Acute,9630
+2013,70924,Psychiatric,710
+2013,70934,Acute,8498
+2013,70988,Acute,19566
+2013,70988,Physical Rehabilitation,584
+2013,70990,Acute,18225
+2013,71018,Acute,9383
+2013,74017,Acute,4960
+2013,74039,Psychiatric,2469
+2013,74039,Chemical Dependency,658
+2013,74097,Acute,9335
+2013,84001,Acute,2618
+2013,90793,Acute,2464
+2013,90793,Skilled Nursing/Intermediate Care,90
+2013,90933,Acute,5615
+2013,90933,Skilled Nursing/Intermediate Care,187
+2013,94002,Psychiatric,376
+2013,100005,Acute,16563
+2013,100005,Physical Rehabilitation,2
+2013,100697,Acute,293
+2013,100697,Skilled Nursing/Intermediate Care,37
+2013,100717,Acute,39731
+2013,100717,Skilled Nursing/Intermediate Care,421
+2013,100717,Psychiatric,3679
+2013,100717,Physical Rehabilitation,598
+2013,100797,Acute,3035
+2013,100899,Acute,24423
+2013,104023,Acute,1632
+2013,104047,Acute,2211
+2013,104062,Acute,8040
+2013,104089,Psychiatric,336
+2013,105029,Acute,3435
+2013,110889,Acute,166
+2013,110889,Skilled Nursing/Intermediate Care,20
+2013,121002,Acute,2621
+2013,121002,Skilled Nursing/Intermediate Care,3
+2013,121031,Acute,40
+2013,121031,Skilled Nursing/Intermediate Care,12
+2013,121051,Acute,1842
+2013,121051,Skilled Nursing/Intermediate Care,24
+2013,121080,Acute,6590
+2013,121080,Physical Rehabilitation,194
+2013,124004,Psychiatric,593
+2013,130699,Acute,7115
+2013,130760,Acute,7269
+2013,141273,Acute,947
+2013,141273,Skilled Nursing/Intermediate Care,8
+2013,141338,Acute,58
+2013,141338,Skilled Nursing/Intermediate Care,24
+2013,150706,Acute,4078
+2013,150706,Skilled Nursing/Intermediate Care,36
+2013,150722,Acute,18124
+2013,150736,Acute,11789
+2013,150736,Psychiatric,714
+2013,150737,Acute,707
+2013,150737,Skilled Nursing/Intermediate Care,190
+2013,150761,Acute,13679
+2013,150775,Acute,716
+2013,150775,Psychiatric,2490
+2013,150775,Chemical Dependency,214
+2013,150782,Acute,2279
+2013,150782,Skilled Nursing/Intermediate Care,144
+2013,150788,Acute,20561
+2013,150808,Acute,88
+2013,154022,Physical Rehabilitation,1794
+2013,154101,Acute,3840
+2013,154160,Psychiatric,554
+2013,160702,Acute,101
+2013,160787,Acute,4107
+2013,164029,Acute,10514
+2013,171049,Acute,1537
+2013,171049,Skilled Nursing/Intermediate Care,14
+2013,171395,Acute,2316
+2013,171395,Skilled Nursing/Intermediate Care,52
+2013,184008,Acute,1411
+2013,190017,Acute,3886
+2013,190017,Skilled Nursing/Intermediate Care,21
+2013,190017,Physical Rehabilitation,263
+2013,190020,Psychiatric,5218
+2013,190034,Acute,24830
+2013,190034,Psychiatric,561
+2013,190045,Acute,12
+2013,190045,Skilled Nursing/Intermediate Care,7
+2013,190049,Acute,963
+2013,190052,Acute,745
+2013,190053,Acute,13009
+2013,190053,Physical Rehabilitation,330
+2013,190066,Acute,899
+2013,190066,Psychiatric,331
+2013,190081,Acute,10332
+2013,190110,Acute,5879
+2013,190110,Skilled Nursing/Intermediate Care,306
+2013,190110,Psychiatric,1817
+2013,190110,Chemical Dependency,1008
+2013,190110,Physical Rehabilitation,339
+2013,190125,Acute,19634
+2013,190125,Skilled Nursing/Intermediate Care,363
+2013,190137,Physical Rehabilitation,1319
+2013,190148,Acute,16986
+2013,190148,Chemical Dependency,1
+2013,190148,Physical Rehabilitation,264
+2013,190150,Psychiatric,981
+2013,190159,Acute,3126
+2013,190163,Psychiatric,6589
+2013,190170,Acute,13930
+2013,190170,Physical Rehabilitation,229
+2013,190176,Acute,6005
+2013,190184,Psychiatric,6988
+2013,190196,Acute,1013
+2013,190197,Acute,4037
+2013,190198,Acute,6024
+2013,190198,Skilled Nursing/Intermediate Care,72
+2013,190200,Acute,11442
+2013,190200,Skilled Nursing/Intermediate Care,61
+2013,190200,Psychiatric,630
+2013,190232,Psychiatric,5682
+2013,190232,Chemical Dependency,18
+2013,190240,Acute,8152
+2013,190243,Acute,11592
+2013,190256,Acute,4496
+2013,190256,Skilled Nursing/Intermediate Care,67
+2013,190280,Acute,1752
+2013,190280,Skilled Nursing/Intermediate Care,13
+2013,190280,Psychiatric,420
+2013,190298,Acute,5792
+2013,190305,Acute,815
+2013,190307,Acute,9252
+2013,190315,Acute,15905
+2013,190315,Physical Rehabilitation,455
+2013,190317,Psychiatric,1002
+2013,190323,Acute,19757
+2013,190323,Skilled Nursing/Intermediate Care,1152
+2013,190323,Psychiatric,1947
+2013,190323,Physical Rehabilitation,606
+2013,190328,Acute,1330
+2013,190328,Psychiatric,412
+2013,190352,Acute,4273
+2013,190352,Skilled Nursing/Intermediate Care,2
+2013,190380,Acute,3351
+2013,190380,Psychiatric,3133
+2013,190382,Acute,16060
+2013,190382,Skilled Nursing/Intermediate Care,194
+2013,190382,Physical Rehabilitation,402
+2013,190382,Unknown,1
+2013,190385,Acute,18622
+2013,190385,Skilled Nursing/Intermediate Care,39
+2013,190385,Physical Rehabilitation,173
+2013,190392,Acute,16003
+2013,190400,Acute,27285
+2013,190400,Psychiatric,987
+2013,190400,Chemical Dependency,507
+2013,190400,Physical Rehabilitation,331
+2013,190410,Psychiatric,3023
+2013,190413,Acute,6759
+2013,190413,Skilled Nursing/Intermediate Care,661
+2013,190413,Psychiatric,1738
+2013,190422,Acute,24440
+2013,190422,Skilled Nursing/Intermediate Care,1246
+2013,190429,Acute,25733
+2013,190429,Psychiatric,2995
+2013,190431,Acute,14237
+2013,190432,Acute,12611
+2013,190434,Acute,13724
+2013,190449,Acute,2227
+2013,190462,Psychiatric,3526
+2013,190462,Chemical Dependency,571
+2013,190468,Acute,1617
+2013,190470,Acute,20086
+2013,190470,Skilled Nursing/Intermediate Care,2152
+2013,190475,Acute,2746
+2013,190857,Acute,98
+2013,190475,Psychiatric,1832
+2013,190500,Acute,4225
+2013,190517,Acute,15680
+2013,190521,Acute,7742
+2013,190521,Skilled Nursing/Intermediate Care,118
+2013,190522,Acute,11168
+2013,190522,Psychiatric,33
+2013,190522,Physical Rehabilitation,173
+2013,190524,Acute,4337
+2013,190524,Psychiatric,3467
+2013,190525,Acute,20371
+2013,190525,Physical Rehabilitation,616
+2013,190529,Acute,16856
+2013,190529,Skilled Nursing/Intermediate Care,966
+2013,190529,Physical Rehabilitation,531
+2013,190534,Acute,4347
+2013,190541,Acute,781
+2013,190547,Acute,5873
+2013,190552,Acute,138
+2013,190552,Skilled Nursing/Intermediate Care,67
+2013,190555,Acute,52607
+2013,190555,Physical Rehabilitation,745
+2013,190555,Unknown,1
+2013,190568,Acute,14393
+2013,190568,Psychiatric,1671
+2013,190568,Physical Rehabilitation,247
+2013,190570,Acute,2833
+2013,190587,Acute,3450
+2013,190587,Psychiatric,3484
+2013,190630,Acute,26136
+2013,190631,Acute,22627
+2013,190631,Skilled Nursing/Intermediate Care,687
+2013,190631,Physical Rehabilitation,232
+2013,190636,Acute,19280
+2013,190636,Physical Rehabilitation,201
+2013,190661,Acute,2009
+2013,190661,Psychiatric,805
+2013,190673,Acute,4216
+2013,190680,Acute,5545
+2013,190680,Skilled Nursing/Intermediate Care,862
+2013,190680,Psychiatric,543
+2013,190680,Chemical Dependency,147
+2013,190680,Physical Rehabilitation,297
+2013,190680,Unknown,2
+2013,190681,Acute,252
+2013,190687,Acute,16031
+2013,190696,Acute,3644
+2013,190696,Skilled Nursing/Intermediate Care,98
+2013,190696,Psychiatric,2075
+2013,190708,Acute,3756
+2013,190708,Skilled Nursing/Intermediate Care,27
+2013,190708,Psychiatric,790
+2013,190712,Acute,351
+2013,190754,Acute,20689
+2013,190754,Skilled Nursing/Intermediate Care,335
+2013,190754,Psychiatric,1997
+2013,190754,Physical Rehabilitation,1
+2013,190754,Unknown,2
+2013,190756,Acute,13363
+2013,190758,Acute,19360
+2013,190758,Physical Rehabilitation,264
+2013,190762,Acute,7618
+2013,190762,Skilled Nursing/Intermediate Care,662
+2013,190762,Physical Rehabilitation,399
+2013,190766,Acute,3292
+2013,190782,Psychiatric,2219
+2013,190784,Acute,1645
+2013,190784,Skilled Nursing/Intermediate Care,13
+2013,190796,Acute,21459
+2013,190796,Physical Rehabilitation,129
+2013,190812,Acute,18587
+2013,190812,Physical Rehabilitation,257
+2013,190818,Acute,5119
+2013,190818,Skilled Nursing/Intermediate Care,616
+2013,190818,Psychiatric,607
+2013,190854,Acute,343
+2013,190854,Psychiatric,1053
+2013,190854,Unknown,1
+2013,190857,Skilled Nursing/Intermediate Care,31
+2013,190859,Acute,8655
+2013,190878,Acute,21277
+2013,190878,Skilled Nursing/Intermediate Care,353
+2013,190878,Psychiatric,2050
+2013,190878,Physical Rehabilitation,322
+2013,190883,Acute,10559
+2013,190883,Skilled Nursing/Intermediate Care,28
+2013,190930,Psychiatric,1897
+2013,190949,Acute,11676
+2013,190949,Psychiatric,1149
+2013,190949,Physical Rehabilitation,141
+2013,191216,Acute,1150
+2013,191225,Chemical Dependency,465
+2013,191227,Acute,19631
+2013,191227,Psychiatric,921
+2013,191228,Acute,29982
+2013,191228,Psychiatric,1219
+2013,191231,Acute,12426
+2013,191231,Psychiatric,943
+2013,191306,Acute,2173
+2013,191306,Physical Rehabilitation,1529
+2013,191450,Acute,12100
+2013,194010,Chemical Dependency,983
+2013,194219,Acute,10230
+2013,194219,Psychiatric,37
+2013,194219,Physical Rehabilitation,193
+2013,194967,Psychiatric,82
+2013,194981,Psychiatric,121
+2013,196035,Acute,15565
+2013,196168,Acute,21239
+2013,196403,Acute,21775
+2013,196404,Skilled Nursing/Intermediate Care,317
+2013,196404,Psychiatric,199
+2013,196405,Acute,7943
+2013,201281,Acute,6016
+2013,204019,Acute,12463
+2013,204019,Physical Rehabilitation,65
+2013,210992,Acute,4799
+2013,210993,Acute,446
+2013,211006,Acute,9572
+2013,211006,Psychiatric,622
+2013,214034,Acute,1613
+2013,220733,Acute,154
+2013,220733,Skilled Nursing/Intermediate Care,33
+2013,230949,Acute,1362
+2013,230949,Skilled Nursing/Intermediate Care,110
+2013,231013,Acute,1181
+2013,231013,Skilled Nursing/Intermediate Care,199
+2013,231396,Acute,4615
+2013,240924,Acute,2098
+2013,240942,Acute,12013
+2013,244027,Psychiatric,578
+2013,250955,Acute,21
+2013,250955,Skilled Nursing/Intermediate Care,18
+2013,250956,Acute,213
+2013,250956,Skilled Nursing/Intermediate Care,76
+2013,260011,Acute,752
+2013,270744,Acute,11563
+2013,270744,Psychiatric,515
+2013,270777,Acute,1810
+2013,270777,Skilled Nursing/Intermediate Care,135
+2013,270875,Acute,12216
+2013,274043,Acute,8955
+2013,274043,Psychiatric,735
+2013,274043,Physical Rehabilitation,442
+2013,281047,Acute,7581
+2013,281047,Physical Rehabilitation,264
+2013,281078,Acute,4876
+2013,281078,Psychiatric,714
+2013,291023,Acute,5379
+2013,291023,Skilled Nursing/Intermediate Care,9
+2013,291053,Acute,2012
+2013,291053,Skilled Nursing/Intermediate Care,73
+2013,300032,Acute,11638
+2013,300225,Acute,13968
+2013,301097,Acute,248
+2013,301097,Skilled Nursing/Intermediate Care,30
+2013,301097,Psychiatric,51
+2013,301098,Acute,13725
+2013,301127,Acute,455
+2013,301127,Skilled Nursing/Intermediate Care,186
+2013,301140,Acute,2045
+2013,301140,Skilled Nursing/Intermediate Care,20
+2013,301140,Psychiatric,266
+2013,301155,Acute,766
+2013,301155,Psychiatric,2346
+2013,301175,Acute,20061
+2013,301188,Acute,4309
+2013,301188,Psychiatric,2926
+2013,301205,Acute,29130
+2013,301205,Chemical Dependency,535
+2013,301209,Acute,3239
+2013,301209,Psychiatric,369
+2013,301234,Acute,3759
+2013,301234,Psychiatric,262
+2013,301248,Acute,10733
+2013,301248,Psychiatric,387
+2013,301258,Acute,4089
+2013,301258,Skilled Nursing/Intermediate Care,72
+2013,301258,Psychiatric,392
+2013,301262,Acute,17663
+2013,301262,Chemical Dependency,1
+2013,301262,Physical Rehabilitation,437
+2013,301279,Acute,18282
+2013,301279,Psychiatric,1888
+2013,301279,Physical Rehabilitation,260
+2013,301283,Acute,7197
+2013,301297,Acute,3532
+2013,301304,Psychiatric,853
+2013,301317,Acute,17542
+2013,301337,Acute,2016
+2013,301337,Psychiatric,1559
+2013,301337,Chemical Dependency,649
+2013,301340,Acute,22823
+2013,301340,Psychiatric,2397
+2013,301342,Acute,15352
+2013,301342,Skilled Nursing/Intermediate Care,44
+2013,301342,Physical Rehabilitation,644
+2013,301357,Acute,117
+2013,301357,Skilled Nursing/Intermediate Care,30
+2013,301379,Acute,5039
+2013,301379,Psychiatric,262
+2013,301380,Acute,981
+2013,301566,Acute,9033
+2013,304079,Physical Rehabilitation,1255
+2013,304113,Acute,1843
+2013,304159,Skilled Nursing/Intermediate Care,71
+2013,304159,Physical Rehabilitation,76
+2013,304409,Acute,29424
+2013,304460,Acute,4018
+2013,310791,Acute,3782
+2013,311000,Acute,21369
+2013,311000,Skilled Nursing/Intermediate Care,32
+2013,311000,Physical Rehabilitation,1031
+2013,314024,Acute,22313
+2013,314029,Psychiatric,691
+2013,320859,Acute,199
+2013,320859,Skilled Nursing/Intermediate Care,38
+2013,320986,Acute,461
+2013,321016,Acute,176
+2013,321016,Skilled Nursing/Intermediate Care,7
+2013,330120,Chemical Dependency,1043
+2013,331152,Acute,8136
+2013,331152,Skilled Nursing/Intermediate Care,64
+2013,331152,Psychiatric,272
+2013,331164,Acute,19788
+2013,331164,Skilled Nursing/Intermediate Care,814
+2013,331164,Physical Rehabilitation,105
+2013,331168,Acute,17802
+2013,331168,Psychiatric,166
+2013,331168,Physical Rehabilitation,510
+2013,331194,Acute,11133
+2013,331194,Skilled Nursing/Intermediate Care,62
+2013,331194,Chemical Dependency,752
+2013,331216,Acute,10436
+2013,331226,Psychiatric,541
+2013,331226,Chemical Dependency,346
+2013,331288,Acute,1227
+2013,331293,Acute,10652
+2013,331312,Acute,25917
+2013,331326,Acute,4569
+2013,331326,Unknown,3
+2013,332172,Acute,430
+2013,334018,Acute,3031
+2013,334025,Acute,14591
+2013,334048,Acute,5261
+2013,334068,Acute,18109
+2013,334457,Psychiatric,1005
+2013,334487,Acute,18475
+2013,334487,Psychiatric,4979
+2013,334564,Acute,378
+2013,334589,Acute,9804
+2013,340913,Acute,9846
+2013,340947,Acute,17622
+2013,340947,Skilled Nursing/Intermediate Care,136
+2013,340947,Physical Rehabilitation,539
+2013,340950,Acute,24235
+2013,340951,Acute,11878
+2013,340951,Skilled Nursing/Intermediate Care,607
+2013,341006,Acute,31222
+2013,341006,Physical Rehabilitation,353
+2013,341051,Acute,11748
+2013,341051,Skilled Nursing/Intermediate Care,441
+2013,341052,Acute,22561
+2013,342344,Acute,14957
+2013,342392,Psychiatric,5764
+2013,344011,Psychiatric,1074
+2013,344017,Psychiatric,2881
+2013,344021,Psychiatric,4144
+2013,344029,Acute,6939
+2013,344035,Acute,337
+2013,344114,Acute,1140
+2013,344114,Physical Rehabilitation,5
+2013,344170,Psychiatric,758
+2013,344188,Psychiatric,543
+2013,350784,Acute,2701
+2013,350784,Skilled Nursing/Intermediate Care,219
+2013,361110,Acute,150
+2013,361110,Skilled Nursing/Intermediate Care,10
+2013,361144,Acute,5118
+2013,361166,Acute,4457
+2013,361223,Acute,32333
+2013,361223,Chemical Dependency,592
+2013,361246,Acute,32889
+2013,361246,Physical Rehabilitation,791
+2013,361266,Acute,237
+2013,361266,Skilled Nursing/Intermediate Care,38
+2013,361274,Acute,892
+2013,361308,Acute,12779
+2013,361308,Skilled Nursing/Intermediate Care,549
+2013,361308,Psychiatric,923
+2013,361318,Acute,17468
+2013,361323,Acute,9278
+2013,361323,Skilled Nursing/Intermediate Care,81
+2013,361323,Psychiatric,4034
+2013,361339,Acute,17730
+2013,361343,Acute,18437
+2013,361370,Acute,7469
+2013,361458,Acute,485
+2013,362041,Acute,3575
+2013,362041,Skilled Nursing/Intermediate Care,454
+2013,364014,Psychiatric,3281
+2013,364014,Chemical Dependency,584
+2013,364050,Psychiatric,5561
+2013,364121,Physical Rehabilitation,1121
+2013,364144,Acute,10084
+2013,364188,Acute,758
+2013,364231,Acute,22365
+2013,364231,Psychiatric,2983
+2013,364430,Acute,2681
+2013,370652,Acute,6456
+2013,370652,Physical Rehabilitation,193
+2013,370673,Acute,17089
+2013,370673,Skilled Nursing/Intermediate Care,85
+2013,370673,Psychiatric,663
+2013,370673,Physical Rehabilitation,80
+2013,370689,Acute,2366
+2013,370689,Skilled Nursing/Intermediate Care,328
+2013,370694,Acute,18767
+2013,370694,Physical Rehabilitation,369
+2013,370695,Acute,19780
+2013,370705,Acute,2395
+2013,370705,Skilled Nursing/Intermediate Care,428
+2013,370714,Acute,30663
+2013,370714,Skilled Nursing/Intermediate Care,159
+2013,370714,Psychiatric,1481
+2013,370714,Physical Rehabilitation,238
+2013,370721,Acute,613
+2013,370730,Acute,27845
+2013,370744,Acute,34240
+2013,370744,Psychiatric,1904
+2013,370745,Psychiatric,5795
+2013,370749,Psychiatric,2155
+2013,370749,Chemical Dependency,289
+2013,370755,Acute,23392
+2013,370755,Skilled Nursing/Intermediate Care,344
+2013,370755,Psychiatric,1648
+2013,370755,Physical Rehabilitation,437
+2013,370759,Acute,6033
+2013,370759,Psychiatric,3693
+2013,370759,Physical Rehabilitation,152
+2013,370771,Acute,19492
+2013,370771,Chemical Dependency,479
+2013,370780,Acute,16195
+2013,370780,Psychiatric,1252
+2013,370780,Physical Rehabilitation,194
+2013,370782,Acute,28026
+2013,370782,Psychiatric,982
+2013,370787,Acute,423
+2013,370787,Psychiatric,194
+2013,370875,Acute,16381
+2013,370875,Skilled Nursing/Intermediate Care,522
+2013,370977,Acute,6894
+2013,370977,Skilled Nursing/Intermediate Care,593
+2013,370977,Psychiatric,243
+2013,371256,Acute,10006
+2013,371394,Acute,10512
+2013,371394,Physical Rehabilitation,659
+2013,371394,Unknown,1
+2013,374024,Psychiatric,2767
+2013,374024,Chemical Dependency,467
+2013,374049,Chemical Dependency,277
+2013,374055,Skilled Nursing/Intermediate Care,43
+2013,374055,Psychiatric,2728
+2013,374094,Acute,1006
+2013,380842,Skilled Nursing/Intermediate Care,1018
+2013,380842,Psychiatric,169
+2013,380857,Acute,14170
+2013,380865,Acute,99
+2013,380865,Skilled Nursing/Intermediate Care,858
+2013,380865,Physical Rehabilitation,53
+2013,380868,Psychiatric,749
+2013,380929,Acute,25033
+2013,380929,Skilled Nursing/Intermediate Care,821
+2013,380929,Psychiatric,691
+2013,380933,Acute,3127
+2013,380933,Skilled Nursing/Intermediate Care,431
+2013,380933,Physical Rehabilitation,521
+2013,380939,Acute,14417
+2013,380939,Skilled Nursing/Intermediate Care,497
+2013,380939,Psychiatric,2251
+2013,380960,Acute,4522
+2013,380960,Psychiatric,1162
+2013,380960,Physical Rehabilitation,447
+2013,380964,Acute,4408
+2013,380964,Skilled Nursing/Intermediate Care,343
+2013,380965,Acute,4556
+2013,380965,Skilled Nursing/Intermediate Care,510
+2013,380965,Psychiatric,849
+2013,380965,Physical Rehabilitation,393
+2013,381154,Acute,30212
+2013,382715,Acute,1897
+2013,390846,Acute,8789
+2013,390923,Acute,7487
+2013,390923,Physical Rehabilitation,130
+2013,391010,Acute,10120
+2013,391042,Acute,17151
+2013,391056,Acute,4231
+2013,392232,Psychiatric,1803
+2013,392287,Acute,4243
+2013,394003,Psychiatric,569
+2013,394009,Acute,11644
+2013,394009,Skilled Nursing/Intermediate Care,29
+2013,400466,Acute,2325
+2013,400466,Physical Rehabilitation,444
+2013,400480,Acute,4755
+2013,400524,Acute,6454
+2013,400548,Acute,5542
+2013,404046,Psychiatric,1291
+2013,410782,Acute,2756
+2013,410782,Skilled Nursing/Intermediate Care,403
+2013,410782,Psychiatric,628
+2013,410804,Acute,9039
+2013,410806,Acute,5223
+2013,410817,Acute,7440
+2013,410817,Skilled Nursing/Intermediate Care,40
+2013,410828,Skilled Nursing/Intermediate Care,99
+2013,410852,Acute,14402
+2013,410852,Skilled Nursing/Intermediate Care,59
+2013,410852,Psychiatric,1083
+2013,410852,Chemical Dependency,489
+2013,410891,Acute,7139
+2013,414018,Acute,237
+2013,420483,Acute,1506
+2013,420483,Skilled Nursing/Intermediate Care,7
+2013,420491,Acute,2717
+2013,420491,Skilled Nursing/Intermediate Care,189
+2013,420493,Acute,13472
+2013,420493,Skilled Nursing/Intermediate Care,544
+2013,420514,Acute,18486
+2013,420514,Psychiatric,1242
+2013,420514,Physical Rehabilitation,633
+2013,420522,Acute,179
+2013,424002,Psychiatric,505
+2013,430705,Acute,12125
+2013,430763,Acute,21968
+2013,430763,Psychiatric,826
+2013,430763,Physical Rehabilitation,502
+2013,430779,Acute,18509
+2013,430779,Psychiatric,598
+2013,430779,Physical Rehabilitation,286
+2013,430837,Acute,14521
+2013,430837,Skilled Nursing/Intermediate Care,24
+2013,430883,Acute,23900
+2013,430883,Psychiatric,1126
+2013,430883,Physical Rehabilitation,595
+2013,430905,Acute,24644
+2013,430905,Psychiatric,654
+2013,430905,Chemical Dependency,2
+2013,430905,Physical Rehabilitation,1
+2013,430905,Unknown,2
+2013,431506,Acute,13217
+2013,434040,Acute,16153
+2013,434051,Skilled Nursing/Intermediate Care,22
+2013,434138,Acute,3523
+2013,434153,Acute,25277
+2013,434218,Psychiatric,1194
+2013,434220,Psychiatric,497
+2013,440755,Acute,10430
+2013,440755,Skilled Nursing/Intermediate Care,184
+2013,440755,Psychiatric,804
+2013,440755,Physical Rehabilitation,469
+2013,440755,Unknown,1
+2013,444012,Acute,2278
+2013,444013,Acute,5570
+2013,444029,Psychiatric,16
+2013,450936,Acute,393
+2013,450936,Skilled Nursing/Intermediate Care,119
+2013,450940,Acute,7078
+2013,450949,Acute,14720
+2013,454012,Acute,656
+2013,454012,Skilled Nursing/Intermediate Care,561
+2013,454013,Acute,229
+2013,470871,Acute,1217
+2013,470871,Skilled Nursing/Intermediate Care,14
+2013,474007,Acute,1873
+2013,480989,Acute,11342
+2013,480989,Physical Rehabilitation,1050
+2014,211006,Psychiatric,695
+2013,481015,Psychiatric,2357
+2013,481094,Acute,5165
+2013,481357,Acute,9999
+2013,484044,Acute,4529
+2013,490919,Acute,7647
+2013,490964,Acute,751
+2013,490964,Skilled Nursing/Intermediate Care,152
+2013,491001,Acute,2923
+2013,491064,Acute,11968
+2013,491064,Physical Rehabilitation,258
+2013,491076,Acute,1414
+2013,491076,Skilled Nursing/Intermediate Care,357
+2013,491076,Unknown,2
+2013,491338,Acute,933
+2013,494019,Acute,9850
+2013,494048,Psychiatric,118
+2013,500852,Acute,22855
+2013,500852,Psychiatric,4177
+2013,500852,Chemical Dependency,12
+2013,500867,Acute,10214
+2013,500867,Skilled Nursing/Intermediate Care,550
+2013,500939,Acute,18978
+2013,500954,Acute,140
+2013,500954,Skilled Nursing/Intermediate Care,73
+2013,500967,Acute,1163
+2013,500967,Skilled Nursing/Intermediate Care,284
+2013,504038,Acute,697
+2013,514001,Psychiatric,267
+2013,514030,Acute,572
+2013,514033,Psychiatric,408
+2013,521041,Acute,3571
+2013,531059,Acute,367
+2013,531059,Skilled Nursing/Intermediate Care,53
+2013,540734,Acute,22715
+2013,540734,Skilled Nursing/Intermediate Care,453
+2013,540734,Psychiatric,1893
+2013,540734,Physical Rehabilitation,479
+2013,540798,Acute,7885
+2013,540798,Skilled Nursing/Intermediate Care,11
+2013,540816,Acute,5414
+2013,554011,Acute,5183
+2013,554011,Skilled Nursing/Intermediate Care,279
+2013,560203,Psychiatric,3860
+2013,560473,Acute,14278
+2013,560481,Acute,11203
+2013,560481,Psychiatric,1819
+2013,560481,Unknown,1
+2013,560492,Acute,16150
+2013,560492,Skilled Nursing/Intermediate Care,737
+2013,560492,Physical Rehabilitation,241
+2013,560492,Unknown,95
+2013,560501,Acute,751
+2013,560501,Skilled Nursing/Intermediate Care,278
+2013,560508,Acute,2854
+2013,560508,Skilled Nursing/Intermediate Care,71
+2013,560525,Acute,5740
+2013,560529,Acute,12196
+2013,560529,Physical Rehabilitation,379
+2013,560838,Psychiatric,169
+2013,571086,Acute,3660
+2013,571086,Psychiatric,797
+2013,574010,Acute,4840
+2013,580996,Acute,14244
+2014,100005,Acute,18183
+2014,100697,Acute,192
+2014,100697,Skilled Nursing/Intermediate Care,52
+2014,100717,Acute,39097
+2014,100717,Skilled Nursing/Intermediate Care,383
+2014,100717,Psychiatric,3919
+2014,100717,Physical Rehabilitation,638
+2014,100797,Acute,3483
+2014,100899,Acute,22972
+2014,104023,Acute,1698
+2014,104047,Acute,2194
+2014,104062,Acute,7891
+2014,104089,Psychiatric,177
+2014,105029,Acute,3361
+2014,10735,Acute,2411
+2014,10735,Skilled Nursing/Intermediate Care,281
+2014,10739,Acute,20762
+2014,10776,Acute,10201
+2014,10776,Physical Rehabilitation,82
+2014,10782,Chemical Dependency,114
+2014,10844,Psychiatric,1725
+2014,10844,Physical Rehabilitation,813
+2014,10846,Acute,12013
+2014,10846,Skilled Nursing/Intermediate Care,125
+2014,10846,Psychiatric,3005
+2014,10846,Physical Rehabilitation,389
+2014,10856,Acute,9948
+2014,10858,Acute,6469
+2014,10887,Acute,478
+2014,10937,Acute,10470
+2014,10937,Physical Rehabilitation,40
+2014,10967,Acute,6519
+2014,10987,Acute,13353
+2014,110889,Acute,229
+2014,110889,Skilled Nursing/Intermediate Care,23
+2014,121002,Acute,2743
+2014,121031,Acute,22
+2014,121031,Skilled Nursing/Intermediate Care,14
+2014,121051,Acute,1809
+2014,121051,Skilled Nursing/Intermediate Care,15
+2014,121080,Acute,6565
+2014,121080,Physical Rehabilitation,186
+2014,124004,Psychiatric,561
+2014,130699,Acute,6047
+2014,130760,Acute,7118
+2014,13619,Acute,2676
+2014,13687,Chemical Dependency,534
+2014,14034,Psychiatric,4339
+2014,14050,Acute,8644
+2014,14050,Skilled Nursing/Intermediate Care,506
+2014,14050,Psychiatric,192
+2014,141273,Acute,1089
+2014,141273,Skilled Nursing/Intermediate Care,71
+2014,14132,Acute,1713
+2014,141338,Acute,27
+2014,141338,Skilled Nursing/Intermediate Care,22
+2014,14207,Psychiatric,1238
+2014,14226,Psychiatric,620
+2014,14233,Acute,10133
+2014,14326,Acute,10646
+2014,150706,Acute,4004
+2014,150706,Skilled Nursing/Intermediate Care,48
+2014,150722,Acute,17634
+2014,150736,Acute,10815
+2014,150736,Psychiatric,681
+2014,150737,Acute,576
+2014,150737,Skilled Nursing/Intermediate Care,138
+2014,150761,Acute,14237
+2014,150775,Acute,667
+2014,150775,Psychiatric,2731
+2014,150775,Chemical Dependency,195
+2014,150782,Acute,2387
+2014,150782,Skilled Nursing/Intermediate Care,282
+2014,150788,Acute,21898
+2014,150808,Acute,127
+2014,154022,Physical Rehabilitation,1837
+2014,154101,Acute,3903
+2014,154160,Psychiatric,592
+2014,160787,Acute,4387
+2014,164029,Acute,9709
+2014,171049,Acute,1500
+2014,171049,Skilled Nursing/Intermediate Care,45
+2014,171395,Acute,1883
+2014,171395,Skilled Nursing/Intermediate Care,6
+2014,171395,Unknown,1
+2014,184008,Acute,1470
+2014,190017,Acute,4722
+2014,190017,Skilled Nursing/Intermediate Care,20
+2014,190017,Physical Rehabilitation,238
+2014,190020,Psychiatric,5131
+2014,190034,Acute,24207
+2014,190034,Psychiatric,720
+2014,190045,Acute,9
+2014,190045,Skilled Nursing/Intermediate Care,4
+2014,190049,Acute,950
+2014,190052,Acute,762
+2014,190053,Acute,13254
+2014,190053,Physical Rehabilitation,361
+2014,190081,Acute,9958
+2014,190110,Acute,6964
+2014,190110,Skilled Nursing/Intermediate Care,269
+2014,190110,Psychiatric,1929
+2014,190110,Chemical Dependency,945
+2014,190110,Physical Rehabilitation,485
+2014,190125,Acute,19539
+2014,190125,Skilled Nursing/Intermediate Care,298
+2014,190137,Physical Rehabilitation,1373
+2014,190148,Acute,17669
+2014,190148,Physical Rehabilitation,370
+2014,190150,Psychiatric,877
+2014,190159,Acute,3513
+2014,190163,Psychiatric,6653
+2014,190170,Acute,14960
+2014,190170,Physical Rehabilitation,185
+2014,190176,Acute,5903
+2014,190184,Psychiatric,6486
+2014,190196,Acute,967
+2014,190197,Acute,3490
+2014,190198,Acute,6104
+2014,190198,Skilled Nursing/Intermediate Care,135
+2014,190200,Acute,11489
+2014,190200,Skilled Nursing/Intermediate Care,65
+2014,190200,Psychiatric,967
+2014,190232,Psychiatric,5639
+2014,190232,Chemical Dependency,47
+2014,190240,Acute,8087
+2014,190240,Chemical Dependency,1
+2014,190243,Acute,10017
+2014,190256,Acute,3475
+2014,190256,Skilled Nursing/Intermediate Care,64
+2014,190280,Acute,1811
+2014,190280,Skilled Nursing/Intermediate Care,22
+2014,190280,Psychiatric,603
+2014,190298,Acute,5940
+2014,190305,Acute,792
+2014,190307,Acute,9408
+2014,190315,Acute,16891
+2014,190315,Physical Rehabilitation,417
+2014,190317,Psychiatric,1008
+2014,190323,Acute,19563
+2014,190323,Skilled Nursing/Intermediate Care,869
+2014,190323,Psychiatric,1794
+2014,190323,Physical Rehabilitation,575
+2014,190328,Acute,1322
+2014,190328,Psychiatric,537
+2014,190352,Acute,3966
+2014,190352,Skilled Nursing/Intermediate Care,7
+2014,190380,Acute,3884
+2014,190380,Psychiatric,3400
+2014,190382,Acute,15357
+2014,190382,Skilled Nursing/Intermediate Care,176
+2014,190382,Physical Rehabilitation,381
+2014,190385,Acute,19499
+2014,190385,Skilled Nursing/Intermediate Care,83
+2014,190385,Physical Rehabilitation,181
+2014,190392,Acute,15907
+2014,190400,Acute,26696
+2014,190400,Psychiatric,955
+2014,190400,Chemical Dependency,303
+2014,190400,Physical Rehabilitation,338
+2014,190410,Psychiatric,2940
+2014,190413,Acute,6598
+2014,190413,Skilled Nursing/Intermediate Care,674
+2014,190413,Psychiatric,1558
+2014,190422,Acute,25296
+2014,190422,Skilled Nursing/Intermediate Care,1405
+2014,190429,Acute,24678
+2014,190429,Psychiatric,3059
+2014,190431,Acute,14204
+2014,190432,Acute,11366
+2014,190434,Acute,13479
+2014,190449,Acute,2198
+2014,190462,Psychiatric,4600
+2014,190462,Chemical Dependency,534
+2014,190468,Acute,1913
+2014,190470,Acute,20241
+2014,190470,Skilled Nursing/Intermediate Care,1979
+2014,190470,Physical Rehabilitation,22
+2014,190470,Unknown,1
+2014,190475,Acute,2938
+2014,190475,Psychiatric,2009
+2014,190475,Unknown,4
+2014,190500,Acute,4139
+2014,190517,Acute,15377
+2014,190521,Acute,7586
+2014,190521,Skilled Nursing/Intermediate Care,100
+2014,190522,Acute,11234
+2014,190522,Psychiatric,385
+2014,190522,Physical Rehabilitation,262
+2014,190524,Acute,4455
+2014,190524,Psychiatric,3515
+2014,190525,Acute,19732
+2014,190525,Physical Rehabilitation,568
+2014,190529,Acute,17457
+2014,190529,Skilled Nursing/Intermediate Care,874
+2014,190529,Physical Rehabilitation,567
+2014,190534,Acute,3837
+2014,190541,Acute,848
+2014,190547,Acute,6777
+2014,190552,Acute,27
+2014,190552,Skilled Nursing/Intermediate Care,29
+2014,190555,Acute,50449
+2014,190555,Physical Rehabilitation,761
+2014,190568,Acute,13643
+2014,190568,Psychiatric,1579
+2014,190568,Physical Rehabilitation,221
+2014,190570,Acute,2984
+2014,190587,Acute,2865
+2014,190587,Psychiatric,3566
+2014,190630,Acute,26325
+2014,190631,Acute,23060
+2014,190631,Skilled Nursing/Intermediate Care,676
+2014,190631,Physical Rehabilitation,298
+2014,190636,Acute,19590
+2014,190636,Physical Rehabilitation,197
+2014,190661,Acute,1931
+2014,190661,Psychiatric,875
+2014,190673,Acute,3627
+2014,190680,Acute,5550
+2014,190680,Skilled Nursing/Intermediate Care,673
+2014,190680,Psychiatric,398
+2014,190680,Chemical Dependency,179
+2014,190680,Physical Rehabilitation,297
+2014,190680,Unknown,1
+2014,190681,Acute,283
+2014,190687,Acute,17885
+2014,190696,Acute,3706
+2014,190696,Skilled Nursing/Intermediate Care,95
+2014,190696,Psychiatric,1631
+2014,190708,Acute,4903
+2014,190708,Skilled Nursing/Intermediate Care,28
+2014,190708,Psychiatric,1028
+2014,190712,Acute,79
+2014,190754,Acute,21282
+2014,190754,Skilled Nursing/Intermediate Care,284
+2014,190754,Psychiatric,2380
+2014,190756,Acute,14002
+2014,190758,Acute,18656
+2014,190758,Physical Rehabilitation,238
+2014,190762,Acute,7473
+2014,190762,Skilled Nursing/Intermediate Care,561
+2014,190762,Physical Rehabilitation,449
+2014,190766,Acute,3127
+2014,190782,Psychiatric,2134
+2014,190784,Acute,788
+2014,190784,Skilled Nursing/Intermediate Care,13
+2014,190796,Acute,22860
+2014,190796,Physical Rehabilitation,193
+2014,190812,Acute,18401
+2014,190812,Physical Rehabilitation,283
+2014,190818,Acute,5087
+2014,190818,Skilled Nursing/Intermediate Care,563
+2014,190818,Psychiatric,550
+2014,190857,Acute,93
+2014,190857,Skilled Nursing/Intermediate Care,37
+2014,190859,Acute,9284
+2014,190878,Acute,20457
+2014,190878,Skilled Nursing/Intermediate Care,379
+2014,190878,Psychiatric,2156
+2014,190878,Physical Rehabilitation,250
+2014,190883,Acute,12463
+2014,190883,Skilled Nursing/Intermediate Care,29
+2014,190930,Psychiatric,1878
+2014,190949,Acute,12327
+2014,190949,Psychiatric,1017
+2014,190949,Physical Rehabilitation,146
+2014,191216,Acute,1452
+2014,191225,Chemical Dependency,722
+2014,191227,Acute,18503
+2014,191227,Psychiatric,743
+2014,191228,Acute,30758
+2014,191228,Psychiatric,877
+2014,191231,Acute,11940
+2014,191231,Psychiatric,780
+2014,191306,Acute,2064
+2014,191306,Physical Rehabilitation,1448
+2014,191450,Acute,12257
+2014,194010,Chemical Dependency,916
+2014,194219,Acute,11572
+2014,194219,Physical Rehabilitation,333
+2014,194967,Psychiatric,105
+2014,194981,Psychiatric,124
+2014,196035,Acute,15416
+2014,196168,Acute,20787
+2014,196403,Acute,21890
+2014,196404,Skilled Nursing/Intermediate Care,350
+2014,196404,Psychiatric,222
+2014,196405,Acute,8364
+2014,201281,Acute,5473
+2014,204019,Acute,12894
+2014,204019,Physical Rehabilitation,58
+2014,210992,Acute,4287
+2014,210993,Acute,439
+2014,211006,Acute,9564
+2014,214034,Acute,1317
+2014,220733,Acute,185
+2014,220733,Skilled Nursing/Intermediate Care,45
+2014,230949,Acute,1311
+2014,230949,Skilled Nursing/Intermediate Care,174
+2014,231013,Acute,1157
+2014,231013,Skilled Nursing/Intermediate Care,208
+2014,231396,Acute,4483
+2014,240924,Acute,2187
+2014,240942,Acute,11127
+2014,244027,Psychiatric,527
+2014,250955,Acute,7
+2014,250955,Skilled Nursing/Intermediate Care,16
+2014,250956,Acute,157
+2014,250956,Skilled Nursing/Intermediate Care,66
+2014,260011,Acute,645
+2014,270744,Acute,11351
+2014,270744,Psychiatric,472
+2014,270744,Physical Rehabilitation,192
+2014,270777,Acute,1578
+2014,270777,Skilled Nursing/Intermediate Care,149
+2014,270875,Acute,11436
+2014,274043,Acute,8592
+2014,274043,Psychiatric,812
+2014,274043,Physical Rehabilitation,503
+2014,281047,Acute,7158
+2014,281047,Physical Rehabilitation,213
+2014,281078,Acute,4470
+2014,281078,Psychiatric,774
+2014,291023,Acute,5345
+2014,291053,Acute,1978
+2014,291053,Skilled Nursing/Intermediate Care,44
+2014,300032,Acute,11428
+2014,300225,Acute,13348
+2014,301098,Acute,13295
+2014,301127,Acute,419
+2014,301127,Skilled Nursing/Intermediate Care,294
+2014,301140,Acute,1920
+2014,301140,Skilled Nursing/Intermediate Care,34
+2014,301140,Psychiatric,239
+2014,301155,Acute,1018
+2014,301155,Psychiatric,2641
+2014,301175,Acute,21720
+2014,301188,Acute,3989
+2014,301188,Psychiatric,2907
+2014,301205,Acute,30154
+2014,301205,Chemical Dependency,673
+2014,301209,Acute,3063
+2014,301209,Psychiatric,391
+2014,301234,Acute,3823
+2014,301234,Psychiatric,274
+2014,301248,Acute,10532
+2014,301248,Psychiatric,358
+2014,301258,Acute,3781
+2014,301258,Skilled Nursing/Intermediate Care,34
+2014,301258,Psychiatric,424
+2014,301262,Acute,18198
+2014,301262,Psychiatric,1
+2014,301262,Physical Rehabilitation,469
+2014,301279,Acute,19029
+2014,301279,Psychiatric,1663
+2014,301279,Physical Rehabilitation,258
+2014,301283,Acute,7500
+2014,301297,Acute,3167
+2014,301304,Psychiatric,887
+2014,301317,Acute,16916
+2014,301337,Acute,2000
+2014,301337,Psychiatric,1365
+2014,301337,Chemical Dependency,679
+2014,301340,Acute,22667
+2014,301340,Psychiatric,2120
+2014,301340,Chemical Dependency,1
+2014,301342,Acute,14755
+2014,301342,Physical Rehabilitation,585
+2014,301357,Skilled Nursing/Intermediate Care,14
+2014,301379,Acute,5669
+2014,301379,Skilled Nursing/Intermediate Care,11
+2014,301379,Psychiatric,230
+2014,301380,Acute,988
+2014,301566,Acute,8849
+2014,304079,Physical Rehabilitation,1265
+2014,304113,Acute,1992
+2014,304159,Skilled Nursing/Intermediate Care,58
+2014,304159,Physical Rehabilitation,74
+2014,304409,Acute,30225
+2014,304460,Acute,4351
+2014,310791,Acute,3351
+2014,311000,Acute,20747
+2014,311000,Physical Rehabilitation,1100
+2014,314024,Acute,22684
+2014,314029,Psychiatric,534
+2014,320859,Acute,197
+2014,320859,Skilled Nursing/Intermediate Care,44
+2014,320986,Acute,440
+2014,321016,Acute,181
+2014,321016,Skilled Nursing/Intermediate Care,22
+2014,330120,Chemical Dependency,938
+2014,331152,Acute,7948
+2014,331152,Skilled Nursing/Intermediate Care,69
+2014,331152,Psychiatric,1449
+2014,331164,Acute,20597
+2014,331164,Skilled Nursing/Intermediate Care,1147
+2014,331164,Physical Rehabilitation,147
+2014,331168,Acute,17642
+2014,331168,Physical Rehabilitation,414
+2014,331194,Acute,11382
+2014,331194,Skilled Nursing/Intermediate Care,53
+2014,331194,Chemical Dependency,797
+2014,331216,Acute,9964
+2014,331226,Psychiatric,738
+2014,331226,Chemical Dependency,388
+2014,331288,Acute,1151
+2014,331293,Acute,12158
+2014,331312,Acute,25008
+2014,331326,Acute,4146
+2014,332172,Acute,419
+2014,334018,Acute,2968
+2014,334025,Acute,14367
+2014,334048,Acute,5189
+2014,334068,Acute,17529
+2014,334457,Psychiatric,927
+2014,334487,Acute,16994
+2014,334487,Psychiatric,4060
+2014,334564,Acute,3776
+2014,334589,Acute,9954
+2014,34002,Acute,2708
+2014,340913,Acute,9372
+2014,340947,Acute,17409
+2014,340947,Physical Rehabilitation,562
+2014,340950,Acute,25206
+2014,340951,Acute,12344
+2014,340951,Skilled Nursing/Intermediate Care,699
+2014,341006,Acute,30414
+2014,341006,Physical Rehabilitation,409
+2014,341051,Acute,11509
+2014,341051,Skilled Nursing/Intermediate Care,2
+2014,341052,Acute,21253
+2014,342344,Acute,15590
+2014,342392,Psychiatric,5128
+2014,344011,Psychiatric,527
+2014,344017,Psychiatric,3185
+2014,344021,Psychiatric,4153
+2014,344029,Acute,7175
+2014,344035,Acute,410
+2014,344114,Acute,1197
+2014,344114,Physical Rehabilitation,5
+2014,344170,Psychiatric,733
+2014,344188,Psychiatric,496
+2014,350784,Acute,2595
+2014,350784,Skilled Nursing/Intermediate Care,137
+2014,361110,Acute,162
+2014,361110,Skilled Nursing/Intermediate Care,19
+2014,361144,Acute,5144
+2014,361166,Acute,4600
+2014,361223,Acute,33269
+2014,361223,Chemical Dependency,393
+2014,361246,Acute,30780
+2014,361246,Physical Rehabilitation,988
+2014,361266,Acute,286
+2014,361266,Skilled Nursing/Intermediate Care,33
+2014,361274,Acute,917
+2014,361308,Acute,13505
+2014,361308,Skilled Nursing/Intermediate Care,578
+2014,361308,Psychiatric,916
+2014,361318,Acute,17497
+2014,361323,Acute,9455
+2014,361323,Skilled Nursing/Intermediate Care,41
+2014,361323,Psychiatric,4702
+2014,361339,Acute,17321
+2014,361343,Acute,17986
+2014,361370,Acute,7424
+2014,361458,Acute,608
+2014,362041,Acute,3297
+2014,362041,Skilled Nursing/Intermediate Care,385
+2014,364014,Psychiatric,3901
+2014,364014,Chemical Dependency,543
+2014,364050,Psychiatric,5860
+2014,364121,Physical Rehabilitation,1180
+2014,364144,Acute,10654
+2014,364188,Acute,729
+2014,364231,Acute,19752
+2014,364231,Psychiatric,3936
+2014,364430,Acute,2590
+2014,364451,Skilled Nursing/Intermediate Care,27
+2014,364451,Physical Rehabilitation,15
+2014,370652,Acute,6180
+2014,370652,Physical Rehabilitation,179
+2014,370673,Acute,18229
+2014,370673,Skilled Nursing/Intermediate Care,103
+2014,370673,Psychiatric,816
+2014,370673,Physical Rehabilitation,97
+2014,370689,Acute,1899
+2014,370689,Skilled Nursing/Intermediate Care,310
+2014,370694,Acute,18350
+2014,370694,Physical Rehabilitation,405
+2014,370695,Acute,20893
+2014,370705,Acute,1385
+2014,370705,Skilled Nursing/Intermediate Care,430
+2014,370714,Acute,30125
+2014,370714,Skilled Nursing/Intermediate Care,151
+2014,370714,Psychiatric,1432
+2014,370714,Physical Rehabilitation,268
+2014,370721,Acute,620
+2014,370730,Acute,26776
+2014,370744,Acute,33635
+2014,370744,Psychiatric,1748
+2014,370745,Psychiatric,5437
+2014,370749,Psychiatric,2052
+2014,370749,Chemical Dependency,195
+2014,370755,Acute,25035
+2014,370755,Psychiatric,1472
+2014,370755,Physical Rehabilitation,528
+2014,370759,Acute,4715
+2014,370759,Psychiatric,1909
+2014,370759,Physical Rehabilitation,129
+2014,370771,Acute,19295
+2014,370780,Acute,16425
+2014,370780,Psychiatric,1328
+2014,370780,Physical Rehabilitation,169
+2014,370782,Acute,28216
+2014,370782,Psychiatric,891
+2014,370787,Acute,454
+2014,370875,Acute,16927
+2014,370875,Skilled Nursing/Intermediate Care,643
+2014,370977,Acute,7382
+2014,370977,Skilled Nursing/Intermediate Care,551
+2014,370977,Psychiatric,195
+2014,371256,Acute,9126
+2014,371394,Acute,11895
+2014,371394,Physical Rehabilitation,608
+2014,374024,Psychiatric,2734
+2014,374024,Chemical Dependency,499
+2014,374049,Chemical Dependency,261
+2014,374055,Skilled Nursing/Intermediate Care,41
+2014,374055,Psychiatric,2588
+2014,374094,Acute,943
+2014,380842,Skilled Nursing/Intermediate Care,1315
+2014,380842,Psychiatric,119
+2014,380857,Acute,14502
+2014,380865,Acute,55
+2014,380865,Skilled Nursing/Intermediate Care,941
+2014,380865,Physical Rehabilitation,27
+2014,380868,Psychiatric,666
+2014,380929,Acute,24592
+2014,380929,Skilled Nursing/Intermediate Care,366
+2014,380929,Psychiatric,773
+2014,380933,Acute,3257
+2014,380933,Skilled Nursing/Intermediate Care,523
+2014,380933,Physical Rehabilitation,526
+2014,380939,Acute,15017
+2014,380939,Skilled Nursing/Intermediate Care,404
+2014,380939,Psychiatric,1928
+2014,380960,Acute,4331
+2014,380960,Psychiatric,1167
+2014,380960,Physical Rehabilitation,422
+2014,380964,Acute,4369
+2014,380964,Skilled Nursing/Intermediate Care,387
+2014,380965,Acute,3842
+2014,380965,Skilled Nursing/Intermediate Care,212
+2014,380965,Psychiatric,877
+2014,380965,Physical Rehabilitation,380
+2014,381154,Acute,30994
+2014,382715,Acute,1772
+2014,390846,Acute,8942
+2014,390923,Acute,7936
+2014,390923,Physical Rehabilitation,118
+2014,391010,Acute,10769
+2014,391042,Acute,17614
+2014,391056,Acute,4674
+2014,392232,Psychiatric,1878
+2014,392287,Acute,4309
+2014,394003,Psychiatric,574
+2014,394009,Acute,12279
+2014,394009,Skilled Nursing/Intermediate Care,11
+2014,400466,Acute,2258
+2014,400466,Physical Rehabilitation,519
+2014,400480,Acute,4607
+2014,400524,Acute,6229
+2014,400548,Acute,5102
+2014,404046,Psychiatric,1180
+2014,40802,Acute,650
+2014,40802,Skilled Nursing/Intermediate Care,123
+2014,40875,Acute,5626
+2014,40937,Acute,11436
+2014,40962,Acute,15736
+2014,40962,Psychiatric,725
+2014,40962,Physical Rehabilitation,470
+2014,410782,Acute,2740
+2014,410782,Skilled Nursing/Intermediate Care,475
+2014,410782,Psychiatric,554
+2014,410804,Acute,8713
+2014,410806,Acute,5283
+2014,410817,Acute,6960
+2014,410817,Skilled Nursing/Intermediate Care,42
+2014,410828,Skilled Nursing/Intermediate Care,65
+2014,410852,Acute,13618
+2014,410852,Psychiatric,1376
+2014,410852,Chemical Dependency,466
+2014,410891,Acute,6918
+2014,414018,Acute,191
+2014,420483,Acute,1587
+2014,420483,Skilled Nursing/Intermediate Care,14
+2014,420491,Acute,2866
+2014,420491,Skilled Nursing/Intermediate Care,241
+2014,420493,Acute,13870
+2014,420493,Skilled Nursing/Intermediate Care,496
+2014,420514,Acute,18406
+2014,420514,Psychiatric,1311
+2014,420514,Physical Rehabilitation,568
+2014,420522,Acute,222
+2014,424002,Psychiatric,336
+2014,430705,Acute,12436
+2014,430705,Unknown,3
+2014,430763,Acute,22392
+2014,430763,Psychiatric,878
+2014,430763,Physical Rehabilitation,574
+2014,430779,Acute,18584
+2014,430779,Psychiatric,633
+2014,430779,Physical Rehabilitation,341
+2014,430779,Unknown,6
+2014,430837,Acute,13569
+2014,430837,Skilled Nursing/Intermediate Care,18
+2014,430883,Acute,24315
+2014,430883,Psychiatric,1048
+2014,430883,Physical Rehabilitation,673
+2014,430905,Acute,24513
+2014,430905,Psychiatric,412
+2014,430905,Unknown,4
+2014,431506,Acute,12888
+2014,434040,Acute,16268
+2014,434051,Skilled Nursing/Intermediate Care,27
+2014,434138,Acute,3313
+2014,434153,Acute,23683
+2014,434218,Psychiatric,1063
+2014,44006,Psychiatric,535
+2014,440755,Acute,10354
+2014,440755,Physical Rehabilitation,512
+2014,444012,Acute,2508
+2014,444013,Acute,5692
+2014,450936,Acute,362
+2014,450936,Skilled Nursing/Intermediate Care,127
+2014,450940,Acute,7000
+2014,450949,Acute,14520
+2014,454012,Acute,624
+2014,454012,Skilled Nursing/Intermediate Care,548
+2014,454013,Acute,257
+2014,470871,Acute,1099
+2014,470871,Skilled Nursing/Intermediate Care,10
+2014,470871,Unknown,1
+2014,474007,Acute,1592
+2014,480989,Acute,9819
+2014,480989,Physical Rehabilitation,1116
+2014,481015,Psychiatric,2389
+2014,481094,Acute,4698
+2014,481357,Acute,9900
+2014,484044,Acute,6928
+2014,490919,Acute,6416
+2014,490964,Acute,815
+2014,490964,Skilled Nursing/Intermediate Care,132
+2014,491001,Acute,3025
+2014,491064,Acute,11987
+2014,491064,Physical Rehabilitation,260
+2014,491076,Acute,1343
+2014,491076,Skilled Nursing/Intermediate Care,332
+2014,491338,Acute,243
+2014,494019,Acute,10267
+2014,494048,Psychiatric,1364
+2014,494106,Acute,1455
+2014,500852,Acute,24414
+2014,500852,Psychiatric,3591
+2014,500852,Chemical Dependency,13
+2014,500867,Acute,9645
+2014,500867,Skilled Nursing/Intermediate Care,273
+2014,500939,Acute,18686
+2014,500954,Acute,582
+2014,500954,Skilled Nursing/Intermediate Care,210
+2014,500967,Acute,847
+2014,500967,Skilled Nursing/Intermediate Care,245
+2014,504038,Acute,549
+2014,50932,Acute,1162
+2014,514001,Psychiatric,217
+2014,514030,Acute,512
+2014,514033,Psychiatric,409
+2014,521041,Acute,3649
+2014,531059,Acute,332
+2014,531059,Skilled Nursing/Intermediate Care,50
+2014,540734,Acute,23199
+2014,540734,Skilled Nursing/Intermediate Care,556
+2014,540734,Psychiatric,1837
+2014,540734,Physical Rehabilitation,580
+2014,540798,Acute,7550
+2014,540798,Skilled Nursing/Intermediate Care,12
+2014,540816,Acute,4717
+2014,554011,Acute,5248
+2014,554011,Skilled Nursing/Intermediate Care,233
+2014,560203,Psychiatric,3784
+2014,560473,Acute,14638
+2014,560481,Acute,10241
+2014,560481,Psychiatric,1612
+2014,560492,Acute,16124
+2014,560492,Skilled Nursing/Intermediate Care,694
+2014,560492,Physical Rehabilitation,391
+2014,560492,Unknown,8
+2014,560501,Acute,722
+2014,560501,Skilled Nursing/Intermediate Care,238
+2014,560508,Acute,2521
+2014,560508,Skilled Nursing/Intermediate Care,42
+2014,560525,Acute,6494
+2014,560529,Acute,11077
+2014,560529,Physical Rehabilitation,375
+2014,560838,Psychiatric,151
+2014,571086,Acute,3818
+2014,571086,Psychiatric,1007
+2014,574010,Acute,4943
+2014,580996,Acute,13144
+2014,60870,Acute,916
+2014,60870,Skilled Nursing/Intermediate Care,117
+2014,70904,Acute,3749
+2014,70924,Acute,10129
+2014,70924,Psychiatric,589
+2014,70934,Acute,8665
+2014,70988,Acute,19215
+2014,70988,Physical Rehabilitation,604
+2014,70990,Acute,16486
+2014,71018,Acute,9376
+2014,74017,Acute,5141
+2014,74039,Psychiatric,2411
+2014,74039,Chemical Dependency,602
+2014,74097,Acute,9436
+2014,84001,Acute,2388
+2014,90793,Acute,2333
+2014,90793,Skilled Nursing/Intermediate Care,83
+2014,90933,Acute,5305
+2014,90933,Skilled Nursing/Intermediate Care,363
+2014,94002,Psychiatric,475
